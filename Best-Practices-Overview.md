@@ -42,7 +42,9 @@ Awesome Merch - http://www.awesomemerchandise.com/
 ## At the event
 ### Stand Set Up
 ### Manning the stand
+
 ***Handling loiterers and speaking to everyone at the stand***
+
 When manning the stand, some poeple will loiter for a while reducing your ability to engange with others who are also interested. To avoid this, keep conversations at a high level when there are a lot of people waiting at the stand and offer to pick up with more detailed conversations after the event or during a break. If a conversation is going on for too long, you can try doing the following:
 
 1) If someone else is loitering behind waiting to ask questions, say hello to them and bring them into the conversation
