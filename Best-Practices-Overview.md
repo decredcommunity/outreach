@@ -1,7 +1,9 @@
 Best practices documentation will live here. Eventually these sub headings may become standalone wiki pages. For now, everything will be collected here.
 
 ## Event Preparation
-### Pre-Event Report (add @kyle's report to repo and outline format/key parts below)
+### Pre-Event Report 
+
+(add @kyle's report to repo and outline format/key parts below)
 ### Print Materials
 **Designs**
 
@@ -39,6 +41,15 @@ Awesome Merch - http://www.awesomemerchandise.com/
 
 ## At the event
 ### Stand Set Up
+### Manning the stand
+***Handling loiterers and speaking to everyone at the stand***
+When manning the stand, some poeple will loiter for a while reducing your ability to engange with others who are also interested. To avoid this, keep conversations at a high level when there are a lot of people waiting at the stand and offer to pick up with more detailed conversations after the event or during a break. If a conversation is going on for too long, you can try doing the following:
+
+1) If someone else is loitering behind waiting to ask questions, say hello to them and bring them into the conversation
+
+2) Say “I’m really enjoying this conversation and I’d love to pick it up in more depth over a coffee later. Could you drop me a line?” and hand over your card
+
+3) Be polite and up front - “this has been a really interesting conversation. I’m going to work the room and see what other projects are up to. Maybe Ill bump into you again soon”
 ### Engaging with attendees
 
 Here's an example: 
