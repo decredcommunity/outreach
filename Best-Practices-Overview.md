@@ -41,7 +41,7 @@ Awesome Merch - http://www.awesomemerchandise.com/
 
 ## At the event
 ### Stand Set Up
-### Manning the stand
+### Manning the stand
 
 ***Handling loiterers and speaking to everyone at the stand***
 
