@@ -1,17 +1,20 @@
 Best practices documentation will live here. Eventually these sub headings may become standalone wiki pages. For now, everything will be collected here.
 
 ## Event Preparation
+### Pre-Event Report (add @kyle's report to repo and outline format/key parts below)
 ### Print Materials
 **Designs**
+
 As of April 2018, roller banner, poster, flyer and other format designs can be found at [this link](https://www.notion.so/Print-matter-10-2017-06dd20f02dc34d19af52e51d784d32cd).
 
 **Placing the order**
+
 The suggested quantities for a large event (c. 15,000 attendees) are as follow:
-* Tshirts: 300 tshirts
+* Tshirts: 250 tshirts (45% Medium, 35% Large, 10% Small, 10% XL)
 * Tote bags: 400 
-* Buttons/badges: 1,500
-* Stickers: 1,000 
-* Cards (written promo): 2,000
+* Buttons/badges: 500
+* Stickers: 500
+* Cards (written promo): 1,000 [Cards about Decred more popular than cards about Politeia]
 
 You can often ship directly to the event venue - this could often be the best option so please check with the event organisers. 
 
@@ -30,16 +33,15 @@ Past Prices:
 
 
 **Print suppliers we have used**
-Awesome Merch - 
+
+Awesome Merch - http://www.awesomemerchandise.com/
 
 
 ## At the event
-At the event
 ### Stand Set Up
 ### Engaging with attendees
 
-
-
-Periscope
+Here's an example: 
+https://twitter.com/NoahPierau/status/986982663914434561
 
 ### Networking Events
