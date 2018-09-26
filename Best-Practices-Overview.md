@@ -38,6 +38,14 @@ Past Prices:
 
 Awesome Merch - http://www.awesomemerchandise.com/
 
+### What to wear for Conferences
+Business Casual Dress attire.  This means Decred polo (conference shirt) with nice Jeans (no holes), khakis or dress pants.  (No tank tops, hoodies, or old torn tshirts)
+
+Nice shoes or tennis shoes (no holes or mud covered shoes)
+
+First day of conference we wear the assigned conference shirt or Decred collared shirt. Then can wear Decred t-shirts.
+
+If one day event can wear conference shirt or a Decred tshirt.  T-shirts should have no holes, stains, or other sign of significant wear and tear.
 
 ## At the event
 ### Stand Set Up
