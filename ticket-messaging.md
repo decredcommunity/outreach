@@ -1,6 +1,7 @@
 Decred Ticket-Holder Voting
  
-Decred employs a hybrid PoW (Proof of Work) + PoS (Proof of Stake) consensus system. Not only does this make the network more secure and resistant to 51% attacks than a conventional proof-of work system, but the staking component allows everyone in the community, not just miners, to participate in changing the consensus rules. 
+Decred employs a hybrid PoW (Proof of Work) + PoS (Proof of Stake) consensus system. Not only does this make the network more secure and resistant to 51% attacks than a conventional proof-of work system, but the staking component allows those holding the coins, not just miners, to participate in changing the consensus rules. 
+
  
 Decred’s governance is based on the principle of ticket-holder voting. Ticket holders forego liquidity and time-lock, or “stake,” their DCR to acquire the right to participate in three types of voting: 
 1) Block Voting, On-chain. Tickets are selected and tallied per block.
@@ -18,7 +19,7 @@ Within each Decred block, stakeholders can purchase tickets (current price here:
  
 Tickets are auctioned for a market price, which is determined by an algorithm that aims to keep the ticket pool size (the total amount of tickets in the PoS system) at 40,960. The target size was selected to ensure that tickets would have a 99.5% chance of voting before they expire.
 - The ticket price goes up or down according to the demand for tickets and the number of tickets currently in the pool. 
-- The algorithm adjusts the ticket price every 144 blocks. 
+- The algorithm adjusts the ticket price every 144 blocks.(~12 hours, as 144 blocks x 5 minutes per block=12 hours) 
 - When purchased, in addition to the ticket price, a ticket fee is taken to incentivize the miner to include the transaction in the block.
 - Tickets are sold as immature and enter the mempool. They cannot vote for 256 blocks (about 20 hours based upon 5 minute blocks).
 - After 256 blocks, a ticket matures, enters the Ticket Pool, and is eligible for voting.
@@ -45,7 +46,8 @@ Some examples of possible rule changes include:
 - Change the PoW algorithm.
 - Anything the community decides would be in the best interest of Decred.
  
-Nodes attempting to use consensus rules differing from the majority of the network will not be able to properly validate the blockchain. They will not be able to participate and will eventually end up operating on their own separate network (e.g. hard fork). Decred’s built-in upgrade mechanism allows consensus rules to be changed across the entire network in a coordinated fashion. The rules are changed predictably, without hard forks brought about by community splits. 
+Nodes attempting to use consensus rules differing from the majority of the network will not be able to properly validate the blockchain. Decred’s built-in upgrade mechanism allows consensus rules to be changed across the entire network in a coordinated fashion. The rules are changed predictably, without hard forks and the associated possibility of a community split. Since blocks require 3 of out 5 votes to be valid, any attempt to split from the chain without majority stakeholder support is futile.
+
  
 The process is as follows:
 
