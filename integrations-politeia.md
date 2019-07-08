@@ -4,11 +4,11 @@ _I've put together a short blurb that I'll be using on anyone who I suspect is g
 
 --- REMOVE THIS PART BEFORE SENDING ---
 
-As a decentralized project, there are two main ways with which Decred handles integrations.
+As a decentralized and open source project, there are two main ways in which Decred handles partnerships.
 
-1. If there are no fees involved any service provider is free to add Decred support, we're also happy to address questions that your developers may have in our Matrix rooms (https://decred.org/matrix/).
+Option 1. If there are no fees involved, any service provider is free to support Decred. We are happy to address any questions you may have in our communication channels: https://www.decred.org/community/
 
-2. If there are costs that the project would need to cover, a proposal must be drafted and voted on by the Decred stakeholders. What that would entail is someone from your side putting all the relevant information into our system, which is named Politeia, at https://proposals.decred.org/
+Option 2. If there are costs that the project would need to cover, a proposal must be drafted and submitted for approval by the Decred stakeholders. What that would entail is someone from your side putting all the relevant information into our proposal platform, which is named Politeia. Guidelines to create a good proposal: https://docs.decred.org/governance/politeia/proposal-guidelines/
 
 A good proposal will address; what, why, how, who, and when. See
 
