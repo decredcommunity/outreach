@@ -70,15 +70,15 @@ Decred aims to become the world's first truly decentralized autonomous organizat
 
 _How Decred is distinct from its competitors for each audience_
 
-### Technical Audience
+**Technical Audience**
 
 Decred is designed to provide developers and community members with the most secure and adaptable digital currency. It does so through on- and off-chain governance systems that leverage multi-stakeholder inclusivity to make collective decisions on consensus changes, block approval, budget, policy, and the development plan. Decred's self-sustaining, flexible contractor model allows anyone to join Decred at any time to work on the open-source projects they find most interesting and fulfilling - autonomously and voluntarily. Those who prove their value and merit to the project can become paid contractors.
 
-### Investor Audience
+**Investor Audience**
 
 Decred is a digital currency designed to be a superior long-term store of value. The hybrid PoW+PoS consensus system provides an additional layer of network security, while stakeholders control budget and policy to make the currency more adaptable. With ten percent of each block reward going to the project Treasury, Decred is completely self-funded. This financial model reduces conflicts of interest and enables ongoing development powered by a unique contractor model that allows contributors to receive payment for work they find interesting. Together, these systems provide solid protection against value-loss events like chain splits and hard forks, giving Decred the resilience to stand the test of time.
 
-### Mainstream Audience
+**Mainstream Audience**
 
 Decred is a community-directed digital currency designed to deliver a truly decentralized, fair, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.
 
