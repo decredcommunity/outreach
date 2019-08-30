@@ -85,6 +85,7 @@ Decred is a community-directed digital currency designed to deliver a truly dece
 ## Terms to Describe Decred
 
 * Adaptable
+* Built to last
 * Cohesive
 * Community-directed
 * Decentralized
@@ -95,6 +96,7 @@ Decred is a community-directed digital currency designed to deliver a truly dece
 * Inclusive
 * Iterative
 * Hybrid PoW+PoS
+* Long-term
 * OG (Original gangsters - founders involved since BTC Suite)
 * Pioneers
 * Rebellious
