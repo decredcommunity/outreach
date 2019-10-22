@@ -1,3 +1,8 @@
+---
+author: jz
+published_utc: 2018-12-03
+---
+
 # Decred Tweeting Style Guide
 
 * Always tag @decredproject when tweeting. It's not enough to use #Decred or $DCR. If you want it to be seen and RT'd by the project account we need to be notified about the tweet.

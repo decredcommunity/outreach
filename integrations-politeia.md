@@ -1,3 +1,9 @@
+---
+author: jz
+published_utc: 2018-11-22
+updated_utc: 2019-07-08
+---
+
 --- REMOVE THIS PART BEFORE SENDING ---
 
 _I've put together a short blurb that I'll be using on anyone who I suspect is going to ask me for money, I no longer have patience for taking pitch calls. I rather focus more on higher value targets. Will post it here for review and in case anyone else wants to use/adapt it for their own purposes._

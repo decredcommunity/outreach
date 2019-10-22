@@ -1,3 +1,8 @@
+---
+author: jz
+published_utc: 2018-12-03
+---
+
 # On Image
 
 One of the factors that differentiate Decred from our peers, apart from the quality of our code and the philosophy behind it, is the way in which we present ourselves. We have what I believe to be the best design teams in the space, and receive compliments to that effect often.

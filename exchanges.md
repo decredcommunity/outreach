@@ -1,3 +1,8 @@
+---
+author: jz
+published_utc: 2019-01-09
+---
+
 # Interacting with exchanges
 
 Having spent some time pursuing exchange listings and breaking the hearts of potential bribees I have gleaned some insights that may be of use to others who are undertaking this endeavor.
