@@ -4,9 +4,9 @@ Goals: We seek to build global awareness and adoption of Decred as a decentraliz
 
 ## Being a Decred Resource:
 
-As a Community Organizer for Decred, you assume a wide range of responsibilities. You’ll need to maintain professionalism, and manage operations like a business manager with the objective of growing Decred within your market. You should be a model Decred community member by having an in-depth knowledge of Decred and projecting the curious, intelligent, and helpful community ethos.
+As a Community Organizer for Decred, you assume a wide range of responsibilities. You'll need to maintain professionalism, and manage operations like a business manager with the objective of growing Decred within your market. You should be a model Decred community member by having an in-depth knowledge of Decred and projecting the curious, intelligent, and helpful community ethos.
 
-To do this, knowledge of Decred’s approach to the following topics is critical:
+To do this, knowledge of Decred's approach to the following topics is critical:
 
 1. History of, money, theory of money, Austrian economics, store of value, medium of exchange, unit of account. Cyberpunk philosophy and Bitcoin dynamics.
 2. Governance (decision-making, experts/delegation vs direct sovereignty, on-chain v off-chain)
@@ -27,8 +27,8 @@ The role of Community Manager includes the following responsibilities:
 3. Management of various social media accounts (Twitter, Reddit, LinkedIn, Facebook, etc.). This role requires you to follow the Social Media Guidelines, and also generate original content from within your geographic area on a regular business that contributes positively to the wider Decred ecosystem.
 4. Acquire and distribute Decred promotional items as necessary, following proper branding standards from https://github.com/decred/dcrdesign/releases
 5. Manage partnerships within the wider crypto ecosystem, including exchanges, wallets, investment funds, accelerators, fintech, journalists, universities and so on. These connections should be leveraged to increase DCR availability, awareness, and event attendance.
-6. Serve as a generator of leads and opportunities for the project as a whole. Community Organizers operate exclusively in major, strategic, global markets where meaningful events take place. It’s your role to network opportunities for Decred to speak at and attend larger conferences in an advantaged way. This means penetrating ranks of organizers and early entrants/influencers of the crypto community.
-7. When Decred comes to your town for an event, it’s your role to provide logistical support to the team. This means coordinating with the events planner on where to stay, eat, and planning meetings with partners.
+6. Serve as a generator of leads and opportunities for the project as a whole. Community Organizers operate exclusively in major, strategic, global markets where meaningful events take place. It's your role to network opportunities for Decred to speak at and attend larger conferences in an advantaged way. This means penetrating ranks of organizers and early entrants/influencers of the crypto community.
+7. When Decred comes to your town for an event, it's your role to provide logistical support to the team. This means coordinating with the events planner on where to stay, eat, and planning meetings with partners.
 8. Sharing information on a regular basis in Decred chats and social media regarding events, learnings, best practices, etc. Knowledge transfer enables learning, while the simple act of sharing information demonstrates the vibrancy of our community.
 
 ### Measurement
@@ -54,7 +54,7 @@ As our global network of community leaders expands, we thought it would be a goo
 
 Stakeholder engagement and the delivery of meaningful experiences is one of the most difficult and undervalued tasks in building out a community. Consistent and excellent execution of events will be rewarded with a proactive community that participates and sustains the long term growth of the Decred ecosystem.
 
-Attention to detail and planning is the best way to ensure you deliver a solid event for your community. To simplify things, we’ve broken the events guide into key categories as you start the journey of putting together an event. For examples the past events visit our [Decred community events repo](https://github.com/decredcommunity/events).
+Attention to detail and planning is the best way to ensure you deliver a solid event for your community. To simplify things, we've broken the events guide into key categories as you start the journey of putting together an event. For examples the past events visit our [Decred community events repo](https://github.com/decredcommunity/events).
 
 #### How to plan an event
 
@@ -74,13 +74,13 @@ Attention to detail and planning is the best way to ensure you deliver a solid e
 
   Your intended audience will inform the content and event format: formal vs informal, technical vs investing, OG vs newbie, Decred users vs crypto enthusiasts.
 
-* **Is it aligned to Decred’s values & strategy?**
+* **Is it aligned to Decred's values & strategy?**
 
   Decred seeks to grow its community worldwide in a way that aligns with its ethos and values, but local customs and standards vary. Sync with the Decred team in the riot rooms with any concerns.
 
 * **Can I work with others?**
 
-  Collaborating with other people and projects can tap new audiences and introduce new ideas. Potential event partners include: other cryptocurrency projects, ecosystem partners such as wallets and exchanges, crypto investment funds, corporates blockchain users, lawyers and media. If you would like to work with a partner, but don’t have a local contact, check in Decred Matrix to see if others have connections and could make an introduction. Check out this example of a creative event: https://www.meetup.com/BlockchainMelbourne/events/256295215/
+  Collaborating with other people and projects can tap new audiences and introduce new ideas. Potential event partners include: other cryptocurrency projects, ecosystem partners such as wallets and exchanges, crypto investment funds, corporates blockchain users, lawyers and media. If you would like to work with a partner, but don't have a local contact, check in Decred Matrix to see if others have connections and could make an introduction. Check out this example of a creative event: https://www.meetup.com/BlockchainMelbourne/events/256295215/
 
 **Event Space**
 
@@ -114,7 +114,7 @@ There are myriad ways you can format your event. The best format to use will be 
 * Community Networking
 * [R] Demo + Presentation + Open Question & Answer + Networking
 * [R] Panel Discussion + Debate + Networking
-* [R] Multiple Demo’s + Open Question & Answer
+* [R] Multiple Demo's + Open Question & Answer
 
 Pro:
 
@@ -153,7 +153,7 @@ Your event is meant to look and feel authentic. It's a grassroots community init
 
 If you are working closely with the Decred marketing team and have budget approval, you can order some promotional items for your event. Everything we produce with a Decred logo on it reflects on the project.
 
-“It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality.” - JZ
+"It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality." - JZ
 
 More information on swag can be found here:
 
@@ -167,9 +167,9 @@ Go to your event space early and test the audio and visual setup. Line up the ch
 
 ### Expectations & Conduct
 
-Decred’s very own JZ:
+Decred's very own JZ:
 
-> “One of the best things about the Decred community, in my opinion, is how multifaceted it is. We have people with all sorts of different skills, life experiences, and varying rationales for getting involved in the space. An area where we really excel is having well-educated people attend events on our behalf. I often receive great feedback about how some community member did a great job of explaining what we're about. It's important to maintain this standard. I'm also not a fan of everyone dressing the same, I think it's preferable for people to wear a Decred t-shirt of their choice, be presentable and professional, but not look like clones.”
+> "One of the best things about the Decred community, in my opinion, is how multifaceted it is. We have people with all sorts of different skills, life experiences, and varying rationales for getting involved in the space. An area where we really excel is having well-educated people attend events on our behalf. I often receive great feedback about how some community member did a great job of explaining what we're about. It's important to maintain this standard. I'm also not a fan of everyone dressing the same, I think it's preferable for people to wear a Decred t-shirt of their choice, be presentable and professional, but not look like clones."
 
 Other standards we encourage are:
 
@@ -185,11 +185,11 @@ Network Network Network! The larger your network, the more opportunities you hav
 
 Attend other locally based community initiatives and present yourself as an educated, engaging and collaborative person.
 
-Spend time on social media contributing to discussions around cryptocurrency, and don’t be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred’s policy to always remain professional and educational on social media.
+Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
 
 #### Tips
 
-* Connect with Decred presenters for the latest version of their decks. You can either use them as is or repurpose the content. They’re also available here: (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
+* Connect with Decred presenters for the latest version of their decks. You can either use them as is or repurpose the content. They're also available here: (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
 * Awareness is key. Having an understanding of blockchain events, conferences, and organizers will help you schedule a conflict free time.
 * If you are bringing in non-Decred speakers, spend time with them before the event to craft the presentation content and ensure their quality.
 * Post clear pictures with hashtags during the event.
@@ -208,7 +208,7 @@ Spend time on social media contributing to discussions around cryptocurrency, an
 
 * **Do I have a budget to run events?**
 
-If you’re a community leader and you are thinking of hosting your first local event, reach out to the decred community on Riot and engage in #events.
+If you're a community leader and you are thinking of hosting your first local event, reach out to the decred community on Riot and engage in #events.
 
 * **Is there a general costing structure?**
 
@@ -224,7 +224,7 @@ As mentioned previously, event spaces should typically be sponsored by your loca
 
 ### Resources & Links
 
-In the event our standard templates are not aligned to your presentation topic, we’ve put together a list of Decred related content pieces written by a diverse range of publications to inspire some of your thinking:
+In the event our standard templates are not aligned to your presentation topic, we've put together a list of Decred related content pieces written by a diverse range of publications to inspire some of your thinking:
 
 * https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md
 * https://github.com/maxbron08/Decred-Canon
@@ -239,4 +239,4 @@ In the event our standard templates are not aligned to your presentation topic, 
 * Social Media Groups around the world
 * https://github.com/decredcommunity/wiki/blob/master/wiki/social-media.md
 * Social Media Playbook PDF
-* [Crypto Twitter Influencer List](https://docs.google.com/document/d/1BmS4I53nMBty-Q7aIY0jFG012Gu8N_Rcp0XPFHHmI88/edit?usp%3Dsharing) Follow these crypto twitter influencers (VCs, projects, thought leaders, etc.) and regularly screen for opportunities to engage on Decred’s behalf.
+* [Crypto Twitter Influencer List](https://docs.google.com/document/d/1BmS4I53nMBty-Q7aIY0jFG012Gu8N_Rcp0XPFHHmI88/edit?usp%3Dsharing) Follow these crypto twitter influencers (VCs, projects, thought leaders, etc.) and regularly screen for opportunities to engage on Decred's behalf.
