@@ -2,7 +2,7 @@
 
 Goals: We seek to build global awareness and adoption of Decred as a decentralized autonomous organization, and as a store of value and medium of exchange. We will educate, seek new applications and partnerships, including new contributors, and help make Decred a robust and thriving ecosystem.
 
-## Being a Decred Resource:
+## Being a Decred Resource
 
 As a Community Organizer for Decred, you assume a wide range of responsibilities. You'll need to maintain professionalism, and manage operations like a business manager with the objective of growing Decred within your market. You should be a model Decred community member by having an in-depth knowledge of Decred and projecting the curious, intelligent, and helpful community ethos.
 
@@ -18,7 +18,7 @@ To do this, knowledge of Decred's approach to the following topics is critical:
 8. Comparisons of Decred vs comparative coins (BTC, DASH, Monero, etc.)
 9. Exchanges, Wallets, Partnerships (How to acquire and store DCR, how to participate in the network (solo staking vs VSPs), DEX details.
 
-### Responsibilities:
+### Responsibilities
 
 The role of Community Manager includes the following responsibilities:
 
@@ -35,7 +35,7 @@ The role of Community Manager includes the following responsibilities:
 
 The work Community Organizers do is paid for and supported by the Decred stakeholders. Being selected is both an honor and a responsibility. All Community Organizers are responsible for reporting a record of their work in the Contractor Management System (CMS) for each month they receive compensation.
 
-#### Metrics for our success to include:
+**Metrics for our success to include:**
 
 * Number of Twitter followers, net gain within an epoch reported monthly.
 * Engagement metrics on Twitter reported monthly.
@@ -96,30 +96,30 @@ Attention to detail and planning is the best way to ensure you deliver a solid e
 
 **Event Format**
 
-Definitions:
+* **Definitions**:
 
-- **Panel Discussion**: Two to four panelists discuss topics facilitated by the host.
-- **Open Question & Answer**: Attendees ask the host or panelists questions.
-- **Demo**: Displaying and explaining how a technology works and what it achieves.
-- **Debate**: Two guests who hold opposing positions debate viewpoints.
-- **Technical workshop**: A deep dive into the code or systems architecture.
+  - **Panel Discussion**: Two to four panelists discuss topics facilitated by the host.
+  - **Open Question & Answer**: Attendees ask the host or panelists questions.
+  - **Demo**: Displaying and explaining how a technology works and what it achieves.
+  - **Debate**: Two guests who hold opposing positions debate viewpoints.
+  - **Technical workshop**: A deep dive into the code or systems architecture.
 
-There are myriad ways you can format your event. The best format to use will be determined by your audience, goals, and potential speakers. Below are a few combinations that most people use, and some I recommend [R] as your community matures:
+  There are myriad ways you can format your event. The best format to use will be determined by your audience, goals, and potential speakers. Below are a few combinations that most people use, and some I recommend [R] as your community matures:
 
-**Event Ideas**
+* **Event Ideas**
 
-* Panel Discussion + Open Question & Answer
-* Presentation + Panel Discussion + Open Question & Answer + Networking
-* Presentation + Open Question & Answer
-* Community Networking
-* [R] Demo + Presentation + Open Question & Answer + Networking
-* [R] Panel Discussion + Debate + Networking
-* [R] Multiple Demo's + Open Question & Answer
+  * Panel Discussion + Open Question & Answer
+  * Presentation + Panel Discussion + Open Question & Answer + Networking
+  * Presentation + Open Question & Answer
+  * Community Networking
+  * [R] Demo + Presentation + Open Question & Answer + Networking
+  * [R] Panel Discussion + Debate + Networking
+  * [R] Multiple Demo's + Open Question & Answer
 
-Pro:
+  Pro:
 
-* [R] Technical Presentation + Open Question & Answer
-* [R] Technical Workshop + Live Coding Session
+  * [R] Technical Presentation + Open Question & Answer
+  * [R] Technical Workshop + Live Coding Session
 
 **Marketing Your Event**
 
@@ -143,27 +143,27 @@ Pro:
   * List the event on startup, fintech, innovation related websites.
   * Ask startup and technology newsletter editors to include my event as a recommendation on their weekly push.
 
-If you are collaborating with partners on the event, they can also leverage their network and social media channels to spread the word. Example: https://www.meetup.com/BlockchainMelbourne/events/258258787/
+  If you are collaborating with partners on the event, they can also leverage their network and social media channels to spread the word. Example: https://www.meetup.com/BlockchainMelbourne/events/258258787/
 
 **Logistics**
 
 * **Is my event meant to look pretty?**
 
-Your event is meant to look and feel authentic. It's a grassroots community initiative so the primary focus should be on the quality of the content delivered.
+  Your event is meant to look and feel authentic. It's a grassroots community initiative so the primary focus should be on the quality of the content delivered.
 
-If you are working closely with the Decred marketing team and have budget approval, you can order some promotional items for your event. Everything we produce with a Decred logo on it reflects on the project.
+  If you are working closely with the Decred marketing team and have budget approval, you can order some promotional items for your event. Everything we produce with a Decred logo on it reflects on the project.
 
-"It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality." - JZ
+  > "It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality." - JZ
 
-More information on swag can be found here:
+  More information on swag can be found here:
 
-https://github.com/heyvj/decred-events/wiki/Best-Practices
+  https://github.com/heyvj/decred-events/wiki/Best-Practices
 
-Additionally, if the budget allows, buy some beer and snacks.
+  Additionally, if the budget allows, buy some beer and snacks.
 
 * **What else should I worry about?**
 
-Go to your event space early and test the audio and visual setup. Line up the chairs and put up some signs that will help people easily access your events room or space. It is laborious but it goes a long way into ensuring people have a smooth experience.
+  Go to your event space early and test the audio and visual setup. Line up the chairs and put up some signs that will help people easily access your events room or space. It is laborious but it goes a long way into ensuring people have a smooth experience.
 
 ### Expectations & Conduct
 
@@ -181,11 +181,11 @@ Other standards we encourage are:
 
 * **How should I spend my time outside of Decred?**
 
-Network Network Network! The larger your network, the more opportunities you have to help Decred grow. Conversations with diverse groups of people will yield new ideas and help you to continuously generate quality events for the community.
+  Network Network Network! The larger your network, the more opportunities you have to help Decred grow. Conversations with diverse groups of people will yield new ideas and help you to continuously generate quality events for the community.
 
-Attend other locally based community initiatives and present yourself as an educated, engaging and collaborative person.
+  Attend other locally based community initiatives and present yourself as an educated, engaging and collaborative person.
 
-Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
+  Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
 
 #### Tips
 
@@ -208,19 +208,19 @@ Spend time on social media contributing to discussions around cryptocurrency, an
 
 * **Do I have a budget to run events?**
 
-If you're a community leader and you are thinking of hosting your first local event, reach out to the decred community on Riot and engage in #events.
+  If you're a community leader and you are thinking of hosting your first local event, reach out to the decred community on Riot and engage in #events.
 
 * **Is there a general costing structure?**
 
-We strive to respect the project Treasury while ensuring a great experience for our community.
+  We strive to respect the project Treasury while ensuring a great experience for our community.
 
-As a general rule, we encourage the below costing structure:
+  As a general rule, we encourage the below costing structure:
 
-- $250 for events up to 10 people
-- $500 for events up to 20 people
-- $1000 for events up to 40 people
+  - $250 for events up to 10 people
+  - $500 for events up to 20 people
+  - $1000 for events up to 40 people
 
-As mentioned previously, event spaces should typically be sponsored by your local co-working space and innovation hubs, giving you budget to purchase food & drinks as required (and within reason).
+  As mentioned previously, event spaces should typically be sponsored by your local co-working space and innovation hubs, giving you budget to purchase food & drinks as required (and within reason).
 
 ### Resources & Links
 
