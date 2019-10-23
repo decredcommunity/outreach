@@ -8,15 +8,16 @@ As a Community Organizer for Decred, you assume a wide range of responsibilities
 
 To do this, knowledge of Decred's approach to the following topics is critical:
 
-1. History of money, theory of money, Austrian economics, store of value, medium of exchange, unit of account. Cyberpunk philosophy and Bitcoin dynamics.
-2. Governance (decision-making, experts/delegation vs direct sovereignty, on-chain v off-chain).
-3. Security & Network Attacks (consensus mechanisms - PoS, PoW, dPoS, etc, especially comparisons, 51% attacks, forks, fork-resistance, Ethereum DAO hack, etc.).
-4. Staking (skin in the game, % staked, ticket price, voter participation).
-5. Development Funding (solving the tragedy of the commons, a new way to organize work, how to become a contractor).
-6. Privacy (why it matters, default vs opt-in, ring signatures, zero-knowledge proofs, MimbleWimble, stealth addresses, CoinShuffle ++, DiceMix, Confidential Transactions (bulletproofs).
-7. Scalability/Layer 2 Solutions (LN, privacy, instant transactions, micropayments).
-8. Comparisons of Decred vs comparative coins (Bitcoin, Dash, Monero, etc.).
-9. Exchanges, Wallets, Partnerships (how to acquire and store DCR, how to participate in the network (solo staking vs VSPs), DEX details.
+1. **Money**: history of money, theory of money, Austrian economics, store of value, medium of exchange, unit of account. Cyberpunk philosophy and Bitcoin dynamics.
+2. **Governance**: decision-making, experts/delegation vs direct sovereignty, on-chain vs off-chain.
+3. **Security & Network Attacks**: consensus mechanisms (PoS, PoW, dPoS, etc, especially comparisons), 51% attacks, forks, fork-resistance, Ethereum DAO hack, etc..
+4. **Staking**: skin in the game, % staked, ticket price, voter participation.
+5. **Development Funding**: solving the tragedy of the commons, a new way to organize work, how to become a contractor.
+6. **Privacy**: why it matters, opt-out vs opt-in, ring signatures, zero-knowledge proofs, MimbleWimble, stealth addresses, CoinShuffle ++, DiceMix, Confidential Transactions (Bulletproofs).
+7. **Scalability**: layer 2 Solutions, LN, privacy, instant transactions, micropayments.
+8. **Comparisons** of Decred vs comparable coins (Bitcoin, Dash, Monero, etc.).
+9. **Exchanges, Wallets, Partnerships**: how to acquire and store DCR, how to participate in the network (solo staking vs VSPs).
+10. **Decred DEX** details.
 
 ### Responsibilities
 
