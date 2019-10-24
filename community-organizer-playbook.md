@@ -2,6 +2,20 @@
 
 Goals: We seek to build global awareness and adoption of Decred as a decentralized autonomous organization, and as a store of value and medium of exchange. We will educate, seek new applications and partnerships, including new contributors, and help make Decred a robust and thriving ecosystem.
 
+Contents:
+
+- [Being a Decred Resource](#being-a-decred-resource)
+  - [Responsibilities](#responsibilities)
+  - [Measurement](#measurement)
+  - [Events](#events)
+    - [How to plan an event](#how-to-plan-an-event)
+  - [Expectations & Conduct](#expectations--conduct)
+    - [Persona of a Decred Community Leader](#persona-of-a-decred-community-leader)
+    - [Tips](#tips)
+  - [Onboarding New Contributors](#onboarding-new-contributors)
+  - [Expense Guidelines](#expense-guidelines)
+  - [Resources & Links](#resources--links)
+
 ## Being a Decred Resource
 
 As a Community Organizer for Decred, you assume a wide range of responsibilities. You'll need to maintain professionalism, and manage operations like a business manager with the objective of growing Decred within your market. You should be a model Decred community member by having an in-depth knowledge of Decred and projecting the curious, intelligent, and helpful community ethos.
