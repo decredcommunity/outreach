@@ -63,6 +63,21 @@ The work Community Organizers do is paid for and supported by the Decred stakeho
 
 Example CMS Submission:
 
+No|Type|Domain|Subdomain|Description|Proposal Token|Labor (hours)
+--:|--:|---|---|---|---|--:
+1|1|Marketing|Community Management|community building in Argentina|c84a766..|11
+2|1|Marketing|Community Management|weekly podcast for New Zealand|c84a766..|13
+3|1|Marketing|Community Management|Telegram AR https://t.me/...|c84a766..|4
+4|1|Marketing|Community Management|Instagram AR https://www.instagram...|c84a766..|4
+5|1|Marketing|Community Management|Twitter AR https://twitter...|c84a766..|4
+6|1|Marketing|Community Management|Meetup AR https://www.meetup...|c84a766..|1
+7|1|Marketing|Community Management|YouTube AR https://www.youtube..|c84a766..|2
+8|1|Marketing|Community Management|Twitter NZ https://twitter...|c84a766..|4
+9|1|Marketing|Community Management|Meetup NZ https://www.meetup...|c84a766..|1
+10|1|Marketing|Community Management|educate on social media|c84a766..|3.8
+11|1|Marketing|Events|Consensus 2019 (2 days) https://twitter.com/...|d3e7f15..|10
+|||||Total||57.8
+
 ### Events
 
 As our global network of community leaders expands, we thought it would be a good idea to share best practices for event hosting across the world.
