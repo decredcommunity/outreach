@@ -155,7 +155,7 @@ Attention to detail and planning is the best way to ensure you deliver a solid e
 
 - **Where will people register?**
 
-  - Set up a registration page via meetup.com, eventbrite, or an equivalent. Ex: https://www.meetup.com/Decred-Australia/
+  - Set up a registration page via meetup.com, eventbrite, Telegram channel or an equivalent. Ex: https://www.meetup.com/Decred-Australia/
   - Reach out to the Decred designers in the #design Matrix room to get an iconic image for your meetup group or event.
   - Invite people to your meetup.com page. Promote it via social media.
   - Create an event and draft a simple 200-300 word description that includes an event description (including day, time, location), reason to attend, event format, and speakers with descriptions.
