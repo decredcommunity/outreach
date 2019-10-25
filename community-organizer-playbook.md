@@ -20,7 +20,7 @@ Contents:
 
 As a Community Organizer for Decred, you assume a wide range of responsibilities. You'll need to maintain professionalism, and manage operations like a business manager with the objective of growing Decred within your market. You should be a model Decred community member by having an in-depth knowledge of Decred and projecting the curious, intelligent, and helpful community ethos.
 
-To do this, knowledge of Decred's approach to the following topics is critical:
+To do this, knowledge of [Decred's messaging](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md) and approach to the following topics is critical:
 
 1. **Money**: history of money, theory of money, Austrian economics, store of value, medium of exchange, unit of account. Cyberpunk philosophy and Bitcoin dynamics.
 2. **Governance**: decision-making, experts/delegation vs direct sovereignty, on-chain vs off-chain.
