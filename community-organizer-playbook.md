@@ -4,17 +4,17 @@ Goals: We seek to build global awareness and adoption of Decred as a decentraliz
 
 Contents:
 
-  - [Being a Decred Resource](#being-a-decred-resource)
-  - [Responsibilities](#responsibilities)
-  - [Measurement](#measurement)
-  - [Events](#events)
-    - [How to plan an event](#how-to-plan-an-event)
-  - [Expectations & Conduct](#expectations--conduct)
-    - [Persona of a Decred Community Leader](#persona-of-a-decred-community-leader)
-    - [Tips](#tips)
-  - [Onboarding New Contributors](#onboarding-new-contributors)
-  - [Expense Guidelines](#expense-guidelines)
-  - [Resources & Links](#resources--links)
+- [Being a Decred Resource](#being-a-decred-resource)
+- [Responsibilities](#responsibilities)
+- [Measurement](#measurement)
+- [Events](#events)
+  - [How to plan an event](#how-to-plan-an-event)
+- [Expectations & Conduct](#expectations--conduct)
+  - [Persona of a Decred Community Leader](#persona-of-a-decred-community-leader)
+  - [Tips](#tips)
+- [Onboarding New Contributors](#onboarding-new-contributors)
+- [Expense Guidelines](#expense-guidelines)
+- [Resources & Links](#resources--links)
 
 ## Being a Decred Resource
 
@@ -33,7 +33,7 @@ To do this, knowledge of [Decred's messaging](https://github.com/decredcommunity
 9. **Exchanges, Wallets, Partnerships**: how to acquire and store DCR, how to participate in the network (solo staking vs VSPs).
 10. **Decred DEX** details.
 
-### Responsibilities
+## Responsibilities
 
 The role of Community Manager includes the following responsibilities:
 
@@ -46,7 +46,7 @@ The role of Community Manager includes the following responsibilities:
 7. When Decred comes to your town for an event, it's your role to provide logistical support to the team. This means coordinating with the events planner on where to stay, eat, and planning meetings with partners.
 8. Sharing information on a regular basis in Decred chats and social media regarding events, learnings, best practices, etc. Knowledge transfer enables learning, while the simple act of sharing information demonstrates the vibrancy of our community.
 
-### Measurement
+## Measurement
 
 The work Community Organizers do is paid for and supported by the Decred stakeholders. Being selected is both an honor and a responsibility. All Community Organizers are responsible for reporting a record of their work in the Contractor Management System (CMS) for each month they receive compensation.
 
@@ -78,7 +78,7 @@ No|Type|Domain|Subdomain|Description|Proposal Token|Labor (hours)
 11|1|Marketing|Events|Consensus 2019 (2 days) https://twitter.com/...|d3e7f15..|10
 |||||Total||57.8
 
-### Events
+## Events
 
 As our global network of community leaders expands, we thought it would be a good idea to share best practices for event hosting across the world.
 
@@ -86,7 +86,7 @@ Stakeholder engagement and the delivery of meaningful experiences is one of the 
 
 Attention to detail and planning is the best way to ensure you deliver a solid event for your community. To simplify things, we've broken the events guide into key categories as you start the journey of putting together an event. For examples of past events visit our [event reports repository](https://github.com/decredcommunity/events).
 
-#### How to plan an event
+### How to plan an event
 
 **Network Scan**
 
@@ -195,7 +195,7 @@ Attention to detail and planning is the best way to ensure you deliver a solid e
 
   Go to your event space early and test the audio and visual setup. Line up the chairs and put up some signs that will help people easily access your events room or space. It is laborious but it goes a long way into ensuring people have a smooth experience.
 
-### Expectations & Conduct
+## Expectations & Conduct
 
 Decred's very own JZ:
 
@@ -207,7 +207,7 @@ Other standards we encourage are:
 - Encourage people to sign up for your community page on meetup.com or equivalent.
 - If there are some high value targets present, ask to follow up with a meeting.
 
-#### Persona of a Decred Community Leader
+### Persona of a Decred Community Leader
 
 - **How should I spend my time outside of Decred?**
 
@@ -217,7 +217,7 @@ Other standards we encourage are:
 
   Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
 
-#### Tips
+### Tips
 
 - Connect with Decred presenters for the latest version of their decks. You can either use them as is or repurpose the content. They're also available here: (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
 - Awareness is key. Having an understanding of blockchain events, conferences, and organizers will help you schedule a conflict free time.
@@ -227,14 +227,14 @@ Other standards we encourage are:
 - Be aware of price conversations, hedge as necessary, and clarify that the presentation is not financial advice but rather tech education.
 - Remember to invite your audience to follow our social media accounts for more information about the project.
 
-### Onboarding New Contributors
+## Onboarding New Contributors
 
 - Talk to them about how they want to help.
 - If it is a technical contributor, sync with the Decred team to get their opinion and suggestions on whether their skillset is aligned or needed.
 - Ask the interested contributor to join Decred Matrix as a first step and say hi at [chat.decred.org](https://chat.decred.org/)
 - If you are still confused about the onboarding process, reach out to other long time contributors or consult [this blog](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10).
 
-### Expense Guidelines
+## Expense Guidelines
 
 - **Do I have a budget to run events?**
 
@@ -252,7 +252,7 @@ Other standards we encourage are:
 
   As mentioned previously, event spaces should typically be sponsored by your local co-working space and innovation hubs, giving you budget to purchase food & drinks as required (and within reason).
 
-### Resources & Links
+## Resources & Links
 
 In the event our standard templates are not aligned to your presentation topic, we've put together a list of Decred related content pieces written by a diverse range of publications to inspire some of your thinking:
 
