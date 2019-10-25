@@ -37,7 +37,7 @@ To do this, knowledge of [Decred's messaging](https://github.com/decredcommunity
 
 The role of Community Manager includes the following responsibilities:
 
-1. Organizing local meetups in your geographic area, ensuring that they meet project standards set forth in the Events Guide, and fall within cost standards. In most markets, a Decred meetup every other month is a good cadence.
+1. Organizing local meetups in your geographic area, ensuring that they meet project standards set forth in the Events Guide, employ [consistent messaging](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md), and fall within cost standards. In most markets, a Decred meetup every other month is a good cadence.
 2. Increasing the size, knowledge, and contributions of the local community over time.
 3. Management of various social media accounts (Twitter, Reddit, LinkedIn, Facebook, etc.). This role requires you to follow the Social Media Guidelines, and also generate original content from within your geographic area on a regular basis that contributes positively to the wider Decred ecosystem.
 4. Acquire and distribute Decred promotional items as necessary, following proper branding standards from https://github.com/decred/dcrdesign/releases
