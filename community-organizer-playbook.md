@@ -4,7 +4,7 @@ Goals: We seek to build global awareness and adoption of Decred as a decentraliz
 
 Contents:
 
-- [Being a Decred Resource](#being-a-decred-resource)
+  - [Being a Decred Resource](#being-a-decred-resource)
   - [Responsibilities](#responsibilities)
   - [Measurement](#measurement)
   - [Events](#events)
