@@ -88,112 +88,112 @@ Attention to detail and planning is the best way to ensure you deliver a solid e
 
 ### How to plan an event
 
-**Network Scan**
+#### Network Scan
 
-- **With whom can I collaborate?**
+##### With whom can I collaborate?
 
-  You will want to go beyond the immediate Decred network to generate interesting content, and to expand beyond our base community. Leverage your personal and professional networks to tap into a wider audience, including speakers, other projects, ecosystem partners, co-working space owners, community leaders, industry influencers etc.
+You will want to go beyond the immediate Decred network to generate interesting content, and to expand beyond our base community. Leverage your personal and professional networks to tap into a wider audience, including speakers, other projects, ecosystem partners, co-working space owners, community leaders, industry influencers etc.
 
-**Pre Event Shaping**
+#### Pre Event Shaping
 
-- **What is your goal?**
+##### What is your goal?
 
-  Are you trying to raise awareness about Decred, recruit developers, or promote a new feature release? Your goal(s) help shape the kind of event you host.
+Are you trying to raise awareness about Decred, recruit developers, or promote a new feature release? Your goal(s) help shape the kind of event you host.
 
-- **Who is your audience?**
+##### Who is your audience?
 
-  Your intended audience will inform the content and event format: formal vs informal, technical vs investing, OG vs newbie, Decred users vs crypto enthusiasts.
+Your intended audience will inform the content and event format: formal vs informal, technical vs investing, OG vs newbie, Decred users vs crypto enthusiasts.
 
-- **Is it aligned to Decred's values & strategy?**
+##### Is it aligned to Decred's values & strategy?
 
-  Decred seeks to grow its community worldwide in a way that aligns with its ethos and values, but local customs and standards vary. Sync with the Decred team in the Matrix rooms with any concerns.
+Decred seeks to grow its community worldwide in a way that aligns with its ethos and values, but local customs and standards vary. Sync with the Decred team in the Matrix rooms with any concerns.
 
-- **Can I work with others?**
+##### Can I work with others?
 
-  Collaborating with other people and projects can tap new audiences and introduce new ideas. Potential event partners include: other cryptocurrency projects, ecosystem partners such as wallets and exchanges, crypto investment funds, corporate blockchain users, lawyers and media. If you would like to work with a partner, but don't have a local contact, check in Decred Matrix chats to see if others have connections and could make an introduction. Check out this example of a creative event: https://www.meetup.com/BlockchainMelbourne/events/256295215/
+Collaborating with other people and projects can tap new audiences and introduce new ideas. Potential event partners include: other cryptocurrency projects, ecosystem partners such as wallets and exchanges, crypto investment funds, corporate blockchain users, lawyers and media. If you would like to work with a partner, but don't have a local contact, check in Decred Matrix chats to see if others have connections and could make an introduction. Check out this example of a creative event: https://www.meetup.com/BlockchainMelbourne/events/256295215/
 
-**Event Space**
+#### Event Space
 
-- **Where can I host my event?**
+##### Where can I host my event?
 
-  Co-working spaces and innovation hubs are great places to host your events, and they typically offer it at no cost because it helps enrich their ecosystem. Another solution is institutional investors, exchanges, or other partners. These groups are vested in their relationship with Decred, and are almost always willing to lend space, and even libations and marketing support.
+Co-working spaces and innovation hubs are great places to host your events, and they typically offer it at no cost because it helps enrich their ecosystem. Another solution is institutional investors, exchanges, or other partners. These groups are vested in their relationship with Decred, and are almost always willing to lend space, and even libations and marketing support.
 
-**Time & Place**
+#### Time & Place
 
-- **What is a good example of time & place?**
+##### What is a good example of time & place?
 
-  We recommend events be held immediately after work on Tuesday, Wednesday, or Thursday, in high density locations close to public transportation. Making the event accessible will maximize attendance.
+We recommend events be held immediately after work on Tuesday, Wednesday, or Thursday, in high density locations close to public transportation. Making the event accessible will maximize attendance.
 
-**Event Format**
+#### Event Format
 
-- **Definitions**:
+##### Definitions:
 
-  - **Panel Discussion**: Two to four panelists discuss topics facilitated by the host.
-  - **Open Question & Answer**: Attendees ask the host or panelists questions.
-  - **Demo**: Displaying and explaining how a technology works and what it achieves.
-  - **Debate**: Two guests who hold opposing positions debate viewpoints.
-  - **Technical workshop**: A deep dive into the code or systems architecture.
+- **Panel Discussion**: Two to four panelists discuss topics facilitated by the host.
+- **Open Question & Answer**: Attendees ask the host or panelists questions.
+- **Demo**: Displaying and explaining how a technology works and what it achieves.
+- **Debate**: Two guests who hold opposing positions debate viewpoints.
+- **Technical workshop**: A deep dive into the code or systems architecture.
 
-  There are myriad ways you can format your event. The best format to use will be determined by your audience, goals, and potential speakers. Below are a few combinations that most people use, and some I recommend [R] as your community matures:
+There are myriad ways you can format your event. The best format to use will be determined by your audience, goals, and potential speakers. Below are a few combinations that most people use, and some I recommend [R] as your community matures:
 
-- **Event Ideas**
+##### Event Ideas
 
-  - Panel Discussion + Open Question & Answer
-  - Presentation + Panel Discussion + Open Question & Answer + Networking
-  - Presentation + Open Question & Answer
-  - Community Networking
-  - [R] Demo + Presentation + Open Question & Answer + Networking
-  - [R] Panel Discussion + Debate + Networking
-  - [R] Multiple Demos + Open Question & Answer
+- Panel Discussion + Open Question & Answer
+- Presentation + Panel Discussion + Open Question & Answer + Networking
+- Presentation + Open Question & Answer
+- Community Networking
+- [R] Demo + Presentation + Open Question & Answer + Networking
+- [R] Panel Discussion + Debate + Networking
+- [R] Multiple Demos + Open Question & Answer
 
-  Pro:
+Pro:
 
-  - [R] Technical Presentation + Open Question & Answer
-  - [R] Technical Workshop + Live Coding Session
+- [R] Technical Presentation + Open Question & Answer
+- [R] Technical Workshop + Live Coding Session
 
-**Marketing Your Event**
+#### Marketing Your Event
 
-- **Where will people register?**
+##### Where will people register?
 
-  - Set up a registration page via meetup.com, eventbrite, Telegram channel or an equivalent. Ex: https://www.meetup.com/Decred-Australia/
-  - Reach out to the Decred designers in the #design Matrix room to get an iconic image for your meetup group or event.
-  - Invite people to your meetup.com page. Promote it via social media.
-  - Create an event and draft a simple 200-300 word description that includes an event description (including day, time, location), reason to attend, event format, and speakers with descriptions.
-  - Create an easy to digest visual tile that will be displayed in all future links on other platforms.
+- Set up a registration page via meetup.com, eventbrite, Telegram channel or an equivalent. Ex: https://www.meetup.com/Decred-Australia/
+- Reach out to the Decred designers in the #design Matrix room to get an iconic image for your meetup group or event.
+- Invite people to your meetup.com page. Promote it via social media.
+- Create an event and draft a simple 200-300 word description that includes an event description (including day, time, location), reason to attend, event format, and speakers with descriptions.
+- Create an easy to digest visual tile that will be displayed in all future links on other platforms.
 
-- **How to promote the event?**
+##### How to promote the event?
 
-  Here are some examples of how to promote events locally and nationally:
+Here are some examples of how to promote events locally and nationally:
 
-  - Post it on your local Decred Twitter, LinkedIn, and Facebook (https://twitter.com/DecredAustralia/status/1093096654217965568)
-  - Request main Decred Twitter to promote or retweet (RT).
-  - Reach out to local community influencers to share via their social media.
-  - Reach out to relevant community groups on Facebook.
-  - Reach out to people in your network who work in a corporate and can share a link about the event in their internal communications platforms.
-  - List the event on startup, fintech, innovation related websites.
-  - Ask startup and technology newsletter editors to include the event as a recommendation on their weekly push.
+- Post it on your local Decred Twitter, LinkedIn, and Facebook (https://twitter.com/DecredAustralia/status/1093096654217965568)
+- Request main Decred Twitter to promote or retweet (RT).
+- Reach out to local community influencers to share via their social media.
+- Reach out to relevant community groups on Facebook.
+- Reach out to people in your network who work in a corporate and can share a link about the event in their internal communications platforms.
+- List the event on startup, fintech, innovation related websites.
+- Ask startup and technology newsletter editors to include the event as a recommendation on their weekly push.
 
-  If you are collaborating with partners on the event, they can also leverage their network and social media channels to spread the word. Example: https://www.meetup.com/BlockchainMelbourne/events/258258787/
+If you are collaborating with partners on the event, they can also leverage their network and social media channels to spread the word. Example: https://www.meetup.com/BlockchainMelbourne/events/258258787/
 
-**Logistics**
+#### Logistics
 
-- **Is my event meant to look pretty?**
+##### Is my event meant to look pretty?
 
-  Your event is meant to look and feel authentic. It's a grassroots community initiative so the primary focus should be on the quality of the content delivered.
+Your event is meant to look and feel authentic. It's a grassroots community initiative so the primary focus should be on the quality of the content delivered.
 
-  If you are working closely with the Decred marketing team and have budget approval, you can order some promotional items for your event. Everything we produce with a Decred logo on it reflects on the project.
+If you are working closely with the Decred marketing team and have budget approval, you can order some promotional items for your event. Everything we produce with a Decred logo on it reflects on the project.
 
-  > "It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality." - JZ
+> "It's better to have no swag than to give people low-quality items with our branding on them. E.g., a five cent pen that I can crush in one hand or a t-shirt that feels like it's made out of sandpaper. Everything Decred should convey high quality." - JZ
 
-  More information on swag can be found here:
+More information on swag can be found here:
 
-  https://github.com/decredcommunity/events/wiki/Best-Practices
+https://github.com/decredcommunity/events/wiki/Best-Practices
 
-  Additionally, if the budget allows, buy some beer and snacks.
+Additionally, if the budget allows, buy some beer and snacks.
 
-- **What else should I worry about?**
+##### What else should I worry about?
 
-  Go to your event space early and test the audio and visual setup. Line up the chairs and put up some signs that will help people easily access your events room or space. It is laborious but it goes a long way into ensuring people have a smooth experience.
+Go to your event space early and test the audio and visual setup. Line up the chairs and put up some signs that will help people easily access your events room or space. It is laborious but it goes a long way into ensuring people have a smooth experience.
 
 ## Expectations & Conduct
 
@@ -209,13 +209,13 @@ Other standards we encourage are:
 
 ### Persona of a Decred Community Leader
 
-- **How should I spend my time outside of Decred?**
+#### How should I spend my time outside of Decred?
 
-  Network Network Network! The larger your network, the more opportunities you have to help Decred grow. Conversations with diverse groups of people will yield new ideas and help you to continuously generate quality events for the community.
+Network Network Network! The larger your network, the more opportunities you have to help Decred grow. Conversations with diverse groups of people will yield new ideas and help you to continuously generate quality events for the community.
 
-  Attend other locally based community initiatives and present yourself as an educated, engaging and collaborative person.
+Attend other locally based community initiatives and present yourself as an educated, engaging and collaborative person.
 
-  Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
+Spend time on social media contributing to discussions around cryptocurrency, and don't be shy to share your own opinion that fits into Decreds expectations and conduct. It is Decred's policy to always remain professional and educational on social media.
 
 ### Tips
 
@@ -236,21 +236,21 @@ Other standards we encourage are:
 
 ## Expense Guidelines
 
-- **Do I have a budget to run events?**
+### Do I have a budget to run events?
 
-  If you're a community leader and you are thinking of hosting your first local event, reach out to the Decred community on Matrix and engage in #events room.
+If you're a community leader and you are thinking of hosting your first local event, reach out to the Decred community on Matrix and engage in #events room.
 
-- **Is there a general costing structure?**
+### Is there a general costing structure?
 
-  We strive to respect the project Treasury while ensuring a great experience for our community.
+We strive to respect the project Treasury while ensuring a great experience for our community.
 
-  As a general rule, we encourage the below costing structure:
+As a general rule, we encourage the below costing structure:
 
-  - $250 for events up to 10 people
-  - $500 for events up to 20 people
-  - $1000 for events up to 40 people
+- $250 for events up to 10 people
+- $500 for events up to 20 people
+- $1000 for events up to 40 people
 
-  As mentioned previously, event spaces should typically be sponsored by your local co-working space and innovation hubs, giving you budget to purchase food & drinks as required (and within reason).
+As mentioned previously, event spaces should typically be sponsored by your local co-working space and innovation hubs, giving you budget to purchase food & drinks as required (and within reason).
 
 ## Resources & Links
 
