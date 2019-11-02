@@ -64,7 +64,7 @@ Decred believes that security is the key to building a long-term store of value,
 
 _This is a short description of what Decred aims to achieve in the short- and medium-term._
 
-Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
+Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 
 ## Positioning Statements
 
