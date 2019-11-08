@@ -1,3 +1,8 @@
+---
+author: Dustorf
+published_utc: 2019-11-08
+---
+
 # Decred Community Organizer Playbook
 
 Goals: We seek to build global awareness and adoption of Decred as a decentralized autonomous organization, and as a store of value and medium of exchange. We will educate, seek new applications and partnerships, including new contributors, and help make Decred a robust and thriving ecosystem.
