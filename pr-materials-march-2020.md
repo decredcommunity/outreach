@@ -26,9 +26,9 @@ Newbies to crypto and blockchain who are frustrated with the status quo of the c
 
 ## Origin Story
 
-The origin of Decred can be traced back to 2013, when an anonymous Bitcointalk user named 'tacotime' started a thread and published the whitepaper for Memcoin2 (MC2). Tacotime worked alongside '_ingsoc', another anonymous user. At the start of 2014 it appeared that tacotime also began work on another popular cryptocurrency: Monero.
+The origin of Decred can be traced back to 2013, when an anonymous Bitcointalk user named 'tacotime' started a thread and published the whitepaper for Memcoin2 (MC2). Tacotime worked alongside '\_ingsoc', another anonymous user. At the start of 2014 it appeared that tacotime also began work on another popular cryptocurrency: Monero.
 
-_ingsoc approached Jake Yocom-Piatt, the CEO of Company Zero, with tacotime's MC2 concept. At the time Company Zero was primarily focused on the development of btcsuite, an alternative full node Bitcoin implementation written in Go. Their code is highly-regarded in the crypto community and used by many leading projects such as Ethereum, BitGo, Factom, OpenBazaar and the Lightning Network. Eventually the two teams joined forces to develop Decred.
+\_ingsoc approached Jake Yocom-Piatt, the CEO of Company Zero, with tacotime's MC2 concept. At the time Company Zero was primarily focused on the development of btcsuite, an alternative full node Bitcoin implementation written in Go. Their code is highly-regarded in the crypto community and used by many leading projects such as Ethereum, BitGo, Factom, OpenBazaar and the Lightning Network. Eventually the two teams joined forces to develop Decred.
 
 ## What is Decred? Elevator Pitch
 
