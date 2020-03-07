@@ -77,16 +77,16 @@ Decred takes a pragmatic approach that prioritizes “sound money” (which must
 Privacy Messaging
 
 1. Decred’s privacy implementation is simple.
-  - The math, concept, and code are all straightforward and well-understood.
-  - Only several hundred lines of code are required, minimizing the opportunities for error.
+   - The math, concept, and code are all straightforward and well-understood.
+   - Only several hundred lines of code are required, minimizing the opportunities for error.
 
 2. Decred’s privacy implementation is creative.
-  - The process leverages Decred’s unique governance system to create user anonymity.
-  - The same concepts can add privacy off-chain on the Lightning Network.
+   - The process leverages Decred’s unique governance system to create user anonymity.
+   - The same concepts can add privacy off-chain on the Lightning Network.
 
 3. Decred’s privacy implementation is adaptable.
-  - Much of the process occurs off-chain, avoiding chain bloat and making it scalable.
-  - The process can be made post-quantum secure, ensuring privacy and fungibility for the long term.
+   - Much of the process occurs off-chain, avoiding chain bloat and making it scalable.
+   - The process can be made post-quantum secure, ensuring privacy and fungibility for the long term.
 
 ## Net Impact: How Consensus Controls Security (What Makes Hybrid PoW+PoS Better)
 
@@ -244,7 +244,7 @@ Decred is a leader when it comes to “walking the talk” of crypto. Other proj
 - [Images] (https://github.com/decred/dcrdesign/releases)
 - Videos-we have a new explainer video (less than 2 minutes) that will be released any time now. decred.org
 - Infographics: The design team regularly generates [images] (https://github.com/decred/dcrdesign/releases) to be used for each software release or integration.
- - [Keynotes] (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
+- [Keynotes] (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
 
 # Topics and key conversations we’d like to join
 
