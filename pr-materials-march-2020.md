@@ -84,7 +84,7 @@ Privacy Messaging
 
 3. Decred’s privacy implementation is adaptable.
   - Much of the process occurs off-chain, avoiding chain bloat and making it scalable.
-  - The process can be made post-quantum secure, ensuring privacy and fungibility for the     long term.
+  - The process can be made post-quantum secure, ensuring privacy and fungibility for the long term.
 
 ## Net Impact: How Consensus Controls Security (What Makes Hybrid PoW+PoS Better)
 
