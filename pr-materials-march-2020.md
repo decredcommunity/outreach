@@ -22,7 +22,7 @@ Newbies to crypto and blockchain who are frustrated with the status quo of the c
 
 # Key messages
 
-[Foundational messaging] (https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md)
+[Foundational messaging](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md)
 
 ## Origin Story
 
@@ -241,10 +241,10 @@ Decred is a leader when it comes to “walking the talk” of crypto. Other proj
 
 # Additional collateral
 
-- [Images] (https://github.com/decred/dcrdesign/releases)
+- [Images](https://github.com/decred/dcrdesign/releases)
 - Videos-we have a new explainer video (less than 2 minutes) that will be released any time now. decred.org
-- Infographics: The design team regularly generates [images] (https://github.com/decred/dcrdesign/releases) to be used for each software release or integration.
-- [Keynotes] (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
+- Infographics: The design team regularly generates [images](https://github.com/decred/dcrdesign/releases) to be used for each software release or integration.
+- [Keynotes](https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
 
 # Topics and key conversations we’d like to join
 
@@ -257,7 +257,7 @@ Decred is a leader when it comes to “walking the talk” of crypto. Other proj
 - Lightning Network (layer 2 scalability). Decred is the only non-btccore project to implement LN because it’s quite difficult.
 - Diversity and inclusion - working with people internationally based on the quality of their work as opposed to gender, race etc.
 
-[Education resources repository] (https://docs.decred.org/getting-started/reading-list/)
+[Education resources repository](https://docs.decred.org/getting-started/reading-list/)
 
 # FAQs
 
