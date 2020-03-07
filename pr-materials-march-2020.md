@@ -27,11 +27,13 @@ Newbies to crypto and blockchain who are frustrated with the status quo of the c
 ## Origin Story
 
 The origin of Decred can be traced back to 2013, when an anonymous Bitcointalk user named ‘tacotime’ started a thread and published the whitepaper for Memcoin2 (MC2). Tacotime worked alongside ‘_ingsoc’, another anonymous user. At the start of 2014 it appeared that tacotime also began work on another popular cryptocurrency: Monero.
+
 _ingsoc approached Jake Yocom-Piatt, the CEO of Company Zero, with tacotime’s MC2 concept. At the time Company Zero was primarily focused on the development of btcsuite, an alternative full node Bitcoin implementation written in Go. Their code is highly-regarded in the crypto community and used by many leading projects such as Ethereum, BitGo, Factom, OpenBazaar and the Lightning Network. Eventually the two teams joined forces to develop Decred.
 
 ## What is Decred? Elevator Pitch
 
 Decred is a community-directed cryptocurrency with built-in governance to make it a superior long-term store of value.
+
 - Decred's hybrid PoW/PoS consensus mechanism, transparent proposal and voting system, and continually funded treasury make it secure, adaptable, and sustainable.
 - Every Decred community member with "skin in the game" - stakeholders, developers, and miners - can vote on the direction of the project. Stakeholders collectively determine the policy, development plan, budget, and consensus rule changes. They also approve the miners' work - effectively aligning interests to ensure the best possible outcome for all.
 - As it moves towards becoming a Decentralized Autonomous Organization (DAO), Decred is intentionally designed to fund all the parties involved in its governance. Each block reward compensates miners, stakeholders, and the Treasury, which pays contractors who work on Decred.
@@ -105,9 +107,13 @@ The amount of time contractors devote to the project is entirely up to them, whi
 Decred: Secure. Adaptable. Sustainable.
 
 Secure. Decred's unique hybrid PoW/PoS consensus mechanism is more than 20x more expensive to attack than PoW alone because it provides layered security. By effectively aligning incentives between miners and stakeholders, it provides checks and balances to ensure long-term stability.
+
 Adaptable. Decred's built-in governance systems facilitate formal methods of making consensus changes and project-level decisions that avoid community-splitting forks.
+
 Sustainable. Decred's block reward system allows the Treasury to sustain itself over time - no outside funding necessary. This ensures the funding the project needs to realize the community's collective decisions. It also gives contributors the freedom to do the work that interests them most (and get paid).
+
 Vision Statement & Values (an aspirational description of what Decred aims to achieve in the long-term)
+
 Decred's vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all - not just a select few.
 
 Sovereignty
@@ -141,12 +147,15 @@ Decred aims to build a community-directed cryptocurrency whose security, adaptab
 ## Positioning Statements (how Decred is distinct from its competitors for each audience)
 
 Technical Audience
+
 Decred is designed to provide developers and community members with the most secure and adaptable cryptocurrency. It does so through on- and off-chain governance systems that leverage multi-stakeholder inclusivity to make collective decisions on consensus changes, block approval, budget, policy, and the development plan. Decred's self-sustaining, flexible contractor model allows anyone to join Decred at any time to work on the open-source projects they find most interesting and fulfilling - autonomously and voluntarily. Those who prove their value and merit to the project can become paid contractors.
 
 Investor Audience
+
 Decred is a cryptocurrency designed to be a superior long-term store of value. The hybrid PoW+PoS consensus system provides an additional layer of network security, while stakeholders control budget and policy to make the currency more adaptable. With ten percent of each block reward going to the project Treasury, Decred is completely self-funded. This financial model reduces conflicts of interest and enables ongoing development powered by a unique contractor model that allows contributors to receive payment for work they find interesting. Together, these systems provide solid protection against value-loss events like chain splits and hard forks, giving Decred the resilience to stand the test of time.
 
 Mainstream Audience
+
 Decred is a community-directed cryptocurrency designed to deliver a truly decentralized, fairer, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.
 
 Terms to describe Decred
@@ -220,6 +229,7 @@ Values-based
 For the last 4+ years, Decred has been building one of the most advanced cryptocurrencies. Founded by early Bitcoin developers who wanted to stay true to crypto’s decentralized ideals, Decred is a project that puts governance and individual sovereignty first.
 
 Beyond espousing decentralized ideals, Decred has self-funded and built (or passed proposals for) some significant industry firsts:
+
 - First-ever crypto atomic swap, between Decred (DCR) and Litecoin (LTC)
 - Decred developers created btcsuite, the first alternative full-node Bitcoin implementation whose code served as the basis of Lightning Network. Decred is one of the first LN implementations (along with BTC and LTC).
 - Built the first-ever off-chain proposal system (Politeia) that allows for public discourse and voting on project-level decisions and how to spend the treasury.
@@ -252,6 +262,7 @@ Decred is a leader when it comes to “walking the talk” of crypto. Other proj
 # FAQs
 
 Is Decred a fork of Bitcoin?
+
 No. Decred is a separate cryptocurrency created by former Bitcoin developers who faced issues with the way Bitcoin was governed and decided to pursue their own original project. Decred's founders looked at what was successful with Bitcoin and what they could add by baking in formalized governance from the start. The goal was to create a structure whereby anyone in the community with skin in the game could own and operate the system, make the rules, and determine the direction of the project.
 
 How is Decred different from Bitcoin?
@@ -277,9 +288,15 @@ What amount of money is in Decred's treasury?
 # Unique Value Proposition
 
 A top cryptocurrency by market cap - $212.49M (top 35)
+
 **Governance**: While most projects agree on the principle of decentralization, few have set up working governance models that truly enable it.
+
 **Sovereignty**: Decred built a unique governance system that is ruled by the collective intelligence of the community, rather than a select group. The result is community-based decisions and policies in the best interest of all - not just a select few.
+
 **Sustainability**: Self-funding treasury - 10% of every block is awarded to the treasury. Decred is/was the first cryptocurrency to do this.
+
 **Privacy**: Decred aims to deliver incremental privacy without risking stealth inflation, which is unlike other privacy coins that have taken more extreme measures and attracted dark markets.
+
 **Security**: In Decred’s hybrid PoW+PoS consensus system, a 51% attack requires a combination of hash power and tickets in the staking system. Apples for apples, an attack on the Decred network would cost 20x more than one on the Bitcoin network.
+
 **Inclusivity**: Decred is a completely decentralized organization that operates remotely by 80+ people from 35 different countries across five continents.
