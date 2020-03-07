@@ -1,16 +1,21 @@
 #Target audience
+
 Decred aims to reach a wide array of discrete audiences, from Bitcoin maximalists to Futurists. For high-level messaging purposes, these audiences can be grouped under three umbrellas:
 
 ##Technical audience
+
 Developers, members of the Decred community, ecosystem partners (exchanges, wallets, applications etc.) and people who are familiar with the technical nuances of blockchain technology.
 
 ##Target Audience: Developers
+
 From devs working at big tech and looking for a crypto side project to devs working on other projects, we want smart — but trusted — devs to come build on Decred.
 
 ##Investor audience
+
 Individual and institutional investors who either already invest in or are interested in investing in cryptocurrency.
 
 ##Mainstream audience
+
 Newbies to crypto and blockchain who are frustrated with the status quo of the current financial system, rentiers, third-party intermediaries, the surveillance economy, and are interested in the promise of crypto and blockchain. This can include borderless, refugees, underbanked or unbanked, those fearful or experiencing inflation. 
  
 *Decred’s end game is to be a global currency: a solid hedge to Bitcoin and a superior SoV-candidate that will dramatically change the underlying power and global politics of money.*
@@ -20,10 +25,12 @@ Newbies to crypto and blockchain who are frustrated with the status quo of the c
 [Foundational messaging] (https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md)
 
 ##Origin Story
+
 The origin of Decred can be traced back to 2013, when an anonymous Bitcointalk user named ‘tacotime’ started a thread and published the whitepaper for Memcoin2 (MC2). Tacotime worked alongside ‘_ingsoc’, another anonymous user. At the start of 2014 it appeared that tacotime also began work on another popular cryptocurrency: Monero.
 _ingsoc approached Jake Yocom-Piatt, the CEO of Company Zero, with tacotime’s MC2 concept. At the time Company Zero was primarily focused on the development of btcsuite, an alternative full node Bitcoin implementation written in Go. Their code is highly-regarded in the crypto community and used by many leading projects such as Ethereum, BitGo, Factom, OpenBazaar and the Lightning Network. Eventually the two teams joined forces to develop Decred.
 
 ##What is Decred? Elevator Pitch
+
 Decred is a community-directed cryptocurrency with built-in governance to make it a superior long-term store of value.
 - Decred's hybrid PoW/PoS consensus mechanism, transparent proposal and voting system, and continually funded treasury make it secure, adaptable, and sustainable.
 - Every Decred community member with "skin in the game" - stakeholders, developers, and miners - can vote on the direction of the project. Stakeholders collectively determine the policy, development plan, budget, and consensus rule changes. They also approve the miners' work - effectively aligning interests to ensure the best possible outcome for all.
@@ -94,6 +101,7 @@ As a decentralized project that focuses on transparency and inclusivity, the Dec
 The amount of time contractors devote to the project is entirely up to them, which makes for a flexible part-time job. Many Decred contractors have other day jobs, and work on Decred as a passion project. Others have found that their passion has turned into a full-time job. This flexible contractor model attracts those developers who are inspired by the Decred ethos and are truly invested in the vision.  
 
 ##Tagline
+
 Decred: Secure. Adaptable. Sustainable.
 
 Secure. Decred's unique hybrid PoW/PoS consensus mechanism is more than 20x more expensive to attack than PoW alone because it provides layered security. By effectively aligning incentives between miners and stakeholders, it provides checks and balances to ensure long-term stability.
@@ -127,6 +135,7 @@ Security
 Decred believes that security is the key to building a long-term store of value, which in turn is the key to creating the money of the future.
  
 ##Mission Statement (a short description of what Decred aims to achieve in the short- and medium-term).
+
 Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
  
 ##Positioning Statements (how Decred is distinct from its competitors for each audience)
@@ -171,6 +180,7 @@ Transparent
 Values-based
 
 ##Principles
+
 - Free and Open-Source Software - All software developed as part of Decred shall be free and open source-software.
 - Free Speech and Consideration - Everyone has the right to communicate opinions and ideas without fear of censorship. Consideration shall be given to all constructive speech that is based in fact and reason.
 - Multi-Stakeholder Inclusivity - Inclusivity represents a multi-stakeholder system and an active effort shall be maintained to include a diverse set of views and users.
@@ -220,12 +230,14 @@ Beyond espousing decentralized ideals, Decred has self-funded and built (or pass
 Decred is a leader when it comes to “walking the talk” of crypto. Other projects claim to be the first or talk about innovations, but Decred is actually building/implementing big leaps forward.
  
 #Additional collateral
+
 - [Images] (https://github.com/decred/dcrdesign/releases)
 - Videos-we have a new explainer video (less than 2 minutes) that will be released any time now. decred.org
 - Infographics: The design team regularly generates [images] (https://github.com/decred/dcrdesign/releases) to be used for each software release or integration. 
  - [Keynotes] (https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
  
 #Topics and key conversations we’d like to join 
+
 - Privacy - It’s a universal human right that is being eroded by the surveillance economy.
 - Evolving workspace. Work on what you want, when you want, work autonomously for the blockchain. 
 - Governance. What’s the best way to make decentralized decisions? 
@@ -238,6 +250,7 @@ Decred is a leader when it comes to “walking the talk” of crypto. Other proj
 [Education resources repository] (https://docs.decred.org/getting-started/reading-list/)
 
 #FAQs
+
 Is Decred a fork of Bitcoin?
 No. Decred is a separate cryptocurrency created by former Bitcoin developers who faced issues with the way Bitcoin was governed and decided to pursue their own original project. Decred's founders looked at what was successful with Bitcoin and what they could add by baking in formalized governance from the start. The goal was to create a structure whereby anyone in the community with skin in the game could own and operate the system, make the rules, and determine the direction of the project.
 
@@ -262,6 +275,7 @@ What amount of money is in Decred's treasury?
 10% of every block reward goes to the treasury. The current balance is more than 600K dcr. https://dcrdata.decred.org/.
 
 #Unique Value Proposition
+
 A top cryptocurrency by market cap - $212.49M (top 35)
 **Governance**: While most projects agree on the principle of decentralization, few have set up working governance models that truly enable it.
 **Sovereignty**: Decred built a unique governance system that is ruled by the collective intelligence of the community, rather than a select group. The result is community-based decisions and policies in the best interest of all - not just a select few. 
