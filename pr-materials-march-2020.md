@@ -22,7 +22,7 @@ Newbies to crypto and blockchain who are frustrated with the status quo of the c
 
 # Key messages
 
-[Foundational messaging](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md)
+[Foundational messaging](foundational-messaging.md)
 
 ## Origin Story
 
