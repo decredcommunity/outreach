@@ -283,7 +283,7 @@ Decred launched on February 8, 2016. All upgrade decisions since then have been 
 
 What amount of money is in Decred's treasury?
 
-10% of every block reward goes to the treasury. The current balance is more than 600K dcr. https://dcrdata.decred.org/.
+10% of every block reward goes to the treasury. The current balance is more than 600K dcr. https://dcrdata.decred.org/ .
 
 # Unique Value Proposition
 
