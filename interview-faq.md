@@ -1,213 +1,33 @@
-**What is the rationale behind a hybrid PoS/PoW model? Was the PoS part of Decred made specifically to address governance, or does it play a role in securing the protocol as well?**
+### What is the rationale behind a hybrid PoS/PoW model? Was the PoS part of Decred made specifically to address governance, or does it play a role in securing the protocol as well?
 
- 
+Decred uses a hybridized PoW/PoS consensus system to address the fact that PoW works well as a means to gamify timestamping, but has shortcomings in the context of governance. Since miners performing PoW have no requirement to hold the coins they mine, their incentives are not as strongly aligned with the cryptocurrency they are mining as someone participating in PoS, where they must hold and stake their coins. Beyond the fact that the PoS component of Decred acts to more strongly align incentives between the project and its stakeholders, the way PoW and PoS are hybridized in Decred makes it roughly 10x more expensive to majority attack than a pure PoW chain.
 
-Decred uses a hybridized PoW/PoS consensus system to address the fact 
+### Proponents of PoW often say that PoS has a number of issues in terms of guaranteeing security, for example that new users cannot rely on the blockchain network itself to verify its past history. A lot of these things are expressed in this r/Monero thread. There's also the paper by Andrew Poelstra. Do you think that pure PoS models are flawed from a network security perspective?
 
-that PoW works well as a means to gamify timestamping, but has 
+Pure PoS is substantially different from pure PoW: PoS aligns incentives more strongly between stakeholders and the project, PoS is reversible, and PoS is feudal, in that your rewards for participation are derived semi-passively from what you have and not the work you perform. Most pure PoS blockchains have a mechanism to penalize stakeholders validating multiple blocks concurrently, which is referred to as “slashing”. Beyond the issues with chain stability, there are also issues regarding entropy generation in pure PoS systems because you need a certain level of entropy to ensure rewards are being fairly distributed across participating stakeholders.
 
-shortcomings in the context of governance.  Since miners performing PoW 
+By hybridizing PoW and PoS, Decred is able to take the benefits of both systems and wash out the shortcomings, e.g. the chain is irreversible because of PoW, has a governance system with strong incentive alignment because of PoS, has a high-quality entropy source from PoW, and increases the cost of executing a majority attack via both PoW and PoS.
 
-have no requirement to hold the coins they mine, their incentives are 
+### Do you agree with the assessment by Ethereum Foundation that PoW leads to more/equal wealth disparity compared to PoS?
 
-not as strongly aligned with the cryptocurrency they are mining as 
+PoW has the property that, in theory, it does a better job decentralizing the distribution of coins because miners must often sell their coins as they mine to fund their operations, and the availability of those coins on exchanges leads to a wider distribution. The extent to which those coins on exchanges reach a wide audience versus a few wealthy players is unclear, so PoW is no panacea in this context. Since PoW is often performed by large mining farms where the owners are well-capitalized, it is not clear to me that it leads to more decentralization. On the other hand, the cost to be a stakeholder in a PoS system is often effectively zero or, as with Decred, requires forgoing the opportunity cost of the coins being liquid for a period of time. Decred splits its subsidy 60/30/10 between PoW, PoS and its treasury, and this was done to dilute the feudal aspect of PoS and ensure PoW had more of the coins, which would then circulate on exchanges.
 
-someone participating in PoS, where they must hold and stake their 
+### How do you feel about exchanges holding a lot of governance power due to the custody of user funds? Obviously the Steem debacle comes to mind, but EOS also has a lot of exchange BPs. Is it better or worse than the control from ASIC manufacturers for (some) PoW coins?
 
-coins.  Beyond the fact that the PoS component of Decred acts to more 
+Decred has had infrastructure in place to minimize the power of staking proxies since a few months after its launch, which we refer to as Voting Service Providers (“VSPs”). Using VSPs roughly 50% of the stake delegates its voting (without delegating the underlying coins), and individual users can set voting preferences, which are then proxied by the VSP. In this way, VSP users can still exercise their preferences for voting without fully delegating custody to the VSP.
 
-strongly align incentives between the project and its stakeholders, the 
+Considering the context of Decred’s existing VSPs and how they are designed, I am not a fan of exchanges using customer funds on the exchange to vote according to the will of the exchange, rather than the customer whose funds are being staked. I am of the opinion that exchanges should make an effort to allow their customers to set voting preferences for their coins being staked, per VSPs. Both EOS and Steem appear to have serious issues with their dPoS governance systems, due to the scenario I describe above.
 
-way PoW and PoS are hybridized in Decred makes it roughly 10x more 
+Regarding ASIC manufacturers’ control over PoW coins, historical disputes over Bitcoin governance have led to the narrative that PoW is a bad governance system. Since the narrative that PoW is not a useful governance system has gained ground in many pure PoW projects, PoW hardware manufacturers do not have the same influence over governance that PoS oracles, e.g. exchanges, do. Based on the weaker coupling between PoW and governance, compared to PoS, I would argue that this makes it less of an issue.
 
-expensive to majority attack than a pure PoW chain.
+### Would you say that dPoS can be considered decentralized? A personal idea of mine is that this type of PoS is basically structured exactly like a traditional corporate board. It would thus be fairer to say that it's a democratic model, not a decentralized one (as that would imply Google, Facebook, Microsoft etc. are also "decentralized"). I wanted to see if somebody else has a similar assessment :)
 
- 
+Per the recent governance failures of dPoS in the context of EOS and Steem, I have an overall negative opinion of dPoS. While Tezos has a smaller fraction of its coins on exchanges than EOS, their dPoS system has similar properties and could be vulnerable to the same type of capture. I agree that dPoS has a lot of similarity with a corporate board. I am of the view that nearly all elected and appointed officials have fundamentally misaligned incentives, so any cryptocurrency project that adds this sort of infrastructure is bound to have problems in the future.
 
-**Proponents of PoW often say that PoS has a number of issues in terms of guaranteeing security, for example that new users cannot rely on the blockchain network itself to verify its past history. A lot of these things are expressed in this r/Monero thread. There's also the paper by Andrew Poelstra. Do you think that pure PoS models are flawed from a network security perspective?**
+### Do you consider the environmental factor to be valid criticism against PoW?
 
- 
+PoW is indeed environmentally unfriendly. However, it must be considered that it is the first and simplest consensus system proposed. There are surely ways to improve PoW in the future.
 
-Pure PoS is substantially different from pure PoW: PoS aligns incentives 
+### How do you feel about ASIC resistance? Is it important to preserve?
 
-more strongly between stakeholders and the project, PoS is reversible, 
-
-and PoS is feudal, in that your rewards for participation are derived 
-
-semi-passively from what you have and not the work you perform.  Most 
-
-pure PoS blockchains have a mechanism to penalize stakeholders 
-
-validating multiple blocks concurrently, which is referred to as 
-
-“slashing”.  Beyond the issues with chain stability, there are also 
-
-issues regarding entropy generation in pure PoS systems because you need 
-
-a certain level of entropy to ensure rewards are being fairly 
-
-distributed across participating stakeholders.
-
- 
-
-By hybridizing PoW and PoS, Decred is able to take the benefits of both 
-
-systems and wash out the shortcomings, e.g. the chain is irreversible 
-
-because of PoW, has a governance system with strong incentive alignment 
-
-because of PoS, has a high-quality entropy source from PoW, and 
-
-increases the cost of executing a majority attack via both PoW and PoS.
-
- 
-
-**Do you agree with the assessment by Ethereum Foundation that PoW leads to more/equal wealth disparity compared to PoS?**
-
- 
-
-PoW has the property that, in theory, it does a better job 
-
-decentralizing the distribution of coins because miners must often sell 
-
-their coins as they mine to fund their operations, and the availability 
-
-of those coins on exchanges leads to a wider distribution.  The extent 
-
-to which those coins on exchanges reach a wide audience versus a few 
-
-wealthy players is unclear, so PoW is no panacea in this context.  Since 
-
-PoW is often performed by large mining farms where the owners are 
-
-well-capitalized, it is not clear to me that it leads to more 
-
-decentralization.  On the other hand, the cost to be a stakeholder in a 
-
-PoS system is often effectively zero or, as with Decred, requires 
-
-forgoing the opportunity cost of the coins being liquid for a period of 
-
-time. Decred splits its subsidy 60/30/10 between PoW, PoS and its 
-
-treasury, and this was done to dilute the feudal aspect of PoS and 
-
-ensure PoW had more of the coins, which would then circulate on exchanges.
-
- 
-
-**How do you feel about exchanges holding a lot of governance power due to the custody of user funds? Obviously the Steem debacle comes to mind, but EOS also has a lot of exchange BPs. Is it better or worse than the control from ASIC manufacturers for (some) PoW coins?**
-
- 
-
-Decred has had infrastructure in place to minimize the power of staking 
-
-proxies since a few months after its launch, which we refer to as Voting 
-
-Service Providers (“VSPs”).  Using VSPs roughly 50% of the stake 
-
-delegates its voting (without delegating the underlying coins), and 
-
-individual users can set voting preferences, which are then proxied by 
-
-the VSP.  In this way, VSP users can still exercise their preferences 
-
-for voting without fully delegating custody to the VSP.
-
- 
-
-Considering the context of Decred’s existing VSPs and how they are 
-
-designed, I am not a fan of exchanges using customer funds on the 
-
-exchange to vote according to the will of the exchange, rather than the 
-
-customer whose funds are being staked.  I am of the opinion that 
-
-exchanges should make an effort to allow their customers to set voting 
-
-preferences for their coins being staked, per VSPs.  Both EOS and Steem 
-
-appear to have serious issues with their dPoS governance systems, due to 
-
-the scenario I describe above.
-
- 
-
-Regarding ASIC manufacturers’ control over PoW coins, historical 
-
-disputes over Bitcoin governance have led to the narrative that PoW is a 
-
-bad governance system.  Since the narrative that PoW is not a useful 
-
-governance system has gained ground in many pure PoW projects, PoW 
-
-hardware manufacturers do not have the same influence over governance 
-
-that PoS oracles, e.g. exchanges, do. Based on the weaker coupling 
-
-between PoW and governance, compared to PoS, I would argue that this 
-
-makes it less of an issue.
-
- 
-
-**Would you say that dPoS can be considered decentralized? A personal idea of mine is that this type of PoS is basically structured exactly like a traditional corporate board. It would thus be fairer to say that it's a democratic model, not a decentralized one (as that would imply Google, Facebook, Microsoft etc. are also "decentralized"). I wanted to see if somebody else has a similar assessment :)**
-
- 
-
-Per the recent governance failures of dPoS in the context of EOS and 
-
-Steem, I have an overall negative opinion of dPoS.  While Tezos has a 
-
-smaller fraction of its coins on exchanges than EOS, their dPoS system 
-
-has similar properties and could be vulnerable to the same type of 
-
-capture.  I agree that dPoS has a lot of similarity with a corporate 
-
-board.  I am of the view that nearly all elected and appointed officials 
-
-have fundamentally misaligned incentives, so any cryptocurrency project 
-
-that adds this sort of infrastructure is bound to have problems in the 
-
-future.
-
- 
-
-**Do you consider the environmental factor to be valid criticism against PoW?**
-
- 
-
-PoW is indeed environmentally unfriendly.  However, it must be 
-
-considered that it is the first and simplest consensus system proposed.  
-
-There are surely ways to improve PoW in the future.
-
- 
-
-**How do you feel about ASIC resistance? Is it important to preserve?**
-
- 
-
-Committing to ASIC resistance is setting yourself up to play a perpetual 
-
-game of Whack-A-Mole.  There is always a way to make an ASIC that will 
-
-perform PoW quicker than general purpose computer hardware.  If you make 
-
-your PoW algorithm ASIC resistant, you end up with botnets mining on 
-
-other people’s hardware and GPU farms, and if you go the ASIC friendly 
-
-route, you end up with ASIC farms.  Decred chose to be ASIC friendly 
-
-because we didn’t want to play Whack-A-Mole and did not want to be 
-
-subject ourselves to attacks from botnet and GPU farm operators.  The 
-
-cost to majority attack Decred is very high and ASICs do a good job of 
-
-making that cost high.
+Committing to ASIC resistance is setting yourself up to play a perpetual game of Whack-A-Mole. There is always a way to make an ASIC that will perform PoW quicker than general purpose computer hardware. If you make your PoW algorithm ASIC resistant, you end up with botnets mining on other people’s hardware and GPU farms, and if you go the ASIC friendly route, you end up with ASIC farms. Decred chose to be ASIC friendly because we didn’t want to play Whack-A-Mole and did not want to be subject ourselves to attacks from botnet and GPU farm operators. The cost to majority attack Decred is very high and ASICs do a good job of making that cost high.
