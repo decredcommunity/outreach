@@ -29,7 +29,7 @@ _Decred's end game is to be a global currency: a solid hedge to Bitcoin and a su
 
 ## Key messages
 
-[Foundational messaging](foundational-messaging.md)
+See also [Foundational Messaging](foundational-messaging.md) and [Decred Constitution](https://docs.decred.org/governance/decred-constitution/).
 
 ### Origin Story
 
@@ -197,6 +197,8 @@ Terms to describe Decred
 
 ### Principles
 
+(copied from [Decred Constitution](https://docs.decred.org/governance/decred-constitution/))
+
 - Free and Open-Source Software - All software developed as part of Decred shall be free and open source-software.
 - Free Speech and Consideration - Everyone has the right to communicate opinions and ideas without fear of censorship. Consideration shall be given to all constructive speech that is based in fact and reason.
 - Multi-Stakeholder Inclusivity - Inclusivity represents a multi-stakeholder system and an active effort shall be maintained to include a diverse set of views and users.
@@ -248,7 +250,7 @@ Decred is a leader when it comes to "walking the talk" of crypto. Other projects
 
 ## Additional collateral
 
-- [Images](https://github.com/decred/dcrdesign/releases)
+- [Design assets](https://github.com/decred/dcrdesign/releases)
 - Videos-we have a new explainer video (less than 2 minutes) that will be released any time now. decred.org
 - Infographics: The design team regularly generates [images](https://github.com/decred/dcrdesign/releases) to be used for each software release or integration.
 - [Keynotes](https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409)
@@ -264,7 +266,7 @@ Decred is a leader when it comes to "walking the talk" of crypto. Other projects
 - Lightning Network (layer 2 scalability). Decred is the only non-btccore project to implement LN because it's quite difficult.
 - Diversity and inclusion - working with people internationally based on the quality of their work as opposed to gender, race etc.
 
-[Education resources repository](https://docs.decred.org/getting-started/reading-list/)
+See also: [education resources](https://docs.decred.org/getting-started/articles-and-media/).
 
 ## FAQs
 
