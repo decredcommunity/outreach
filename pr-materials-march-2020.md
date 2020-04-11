@@ -81,7 +81,7 @@ The topic is complex and involves many tradeoffs. Blockchains are public ledgers
 
 Decred takes a pragmatic approach that prioritizes "sound money" (which must be both fungible and immutable) over strict privacy. Decred aims to deliver incremental privacy without risking stealth inflation (the blockchain must be auditable at all times), which is unlike other privacy coins that have taken more extreme measures and attracted dark markets.
 
-Privacy Messaging
+#### Privacy Messaging
 
 1. Decred's privacy implementation is simple.
    - The math, concept, and code are all straightforward and well-understood.
@@ -119,53 +119,59 @@ Decred: Secure. Adaptable. Sustainable.
 
 **Sustainable**. Decred's block reward system allows the Treasury to sustain itself over time - no outside funding necessary. This ensures the funding the project needs to realize the community's collective decisions. It also gives contributors the freedom to do the work that interests them most (and get paid).
 
-### Vision Statement & Values (an aspirational description of what Decred aims to achieve in the long-term)
+### Vision Statement & Values
+
+_An aspirational description of what Decred aims to achieve in the long-term._
 
 Decred's vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all - not just a select few.
 
-Sovereignty
+**Sovereignty**
 
 Decred believes that individuals are capable of collectively making better decisions via direct and formal sovereignty in which they have control over their own actions - without being subjugated to a representative, which typically involves self-dealing and conflicts of interest.
 
-Fairness
+**Fairness**
 
 Decred believes that the time has come to create a fairer system that benefits all participants equally - replacing the uneven playing field created by legacy financial systems.
 
-Transparency
+**Transparency**
 
 Decred believes that access to information is the cornerstone of informed, sustainable decision-making, and every stakeholder has a right to full transparency.
 
-Inclusivity
+**Inclusivity**
 
 Decred believes that no thoughts and ideas should be excluded - all stakeholder voices deserve to be heard and considered in the decision-making process.
 
-Privacy
+**Privacy**
 
 Decred believes in the fundamental right to privacy and in every person's freedom to choose the amount of privacy that's right for them.
 
-Security
+**Security**
 
 Decred believes that security is the key to building a long-term store of value, which in turn is the key to creating the money of the future.
 
-### Mission Statement (a short description of what Decred aims to achieve in the short- and medium-term).
+### Mission Statement
+
+_A short description of what Decred aims to achieve in the short- and medium-term._
 
 Decred aims to build a community-directed cryptocurrency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.
 
-### Positioning Statements (how Decred is distinct from its competitors for each audience)
+### Positioning Statements
 
-Technical Audience
+_How Decred is distinct from its competitors for each audience_
+
+**Technical Audience**
 
 Decred is designed to provide developers and community members with the most secure and adaptable cryptocurrency. It does so through on- and off-chain governance systems that leverage multi-stakeholder inclusivity to make collective decisions on consensus changes, block approval, budget, policy, and the development plan. Decred's self-sustaining, flexible contractor model allows anyone to join Decred at any time to work on the open-source projects they find most interesting and fulfilling - autonomously and voluntarily. Those who prove their value and merit to the project can become paid contractors.
 
-Investor Audience
+**Investor Audience**
 
 Decred is a cryptocurrency designed to be a superior long-term store of value. The hybrid PoW+PoS consensus system provides an additional layer of network security, while stakeholders control budget and policy to make the currency more adaptable. With ten percent of each block reward going to the project Treasury, Decred is completely self-funded. This financial model reduces conflicts of interest and enables ongoing development powered by a unique contractor model that allows contributors to receive payment for work they find interesting. Together, these systems provide solid protection against value-loss events like chain splits and hard forks, giving Decred the resilience to stand the test of time.
 
-Mainstream Audience
+**Mainstream Audience**
 
 Decred is a community-directed cryptocurrency designed to deliver a truly decentralized, fairer, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.
 
-Terms to describe Decred
+### Terms to describe Decred
 
 - Adaptable
 - Built to last
@@ -270,11 +276,11 @@ See also: [education resources](https://docs.decred.org/getting-started/articles
 
 ## FAQs
 
-Is Decred a fork of Bitcoin?
+**Is Decred a fork of Bitcoin?**
 
 No. Decred is a separate cryptocurrency created by former Bitcoin developers who faced issues with the way Bitcoin was governed and decided to pursue their own original project. Decred's founders looked at what was successful with Bitcoin and what they could add by baking in formalized governance from the start. The goal was to create a structure whereby anyone in the community with skin in the game could own and operate the system, make the rules, and determine the direction of the project.
 
-How is Decred different from Bitcoin?
+**How is Decred different from Bitcoin?**
 
 Decred is distinct from Bitcoin in three key ways:
 
@@ -282,15 +288,15 @@ Decred is distinct from Bitcoin in three key ways:
 2. Adaptable: Decred has built-in formalized governance that allows it to make changes to its consensus rules while avoiding sustained chain splits (and creation of new currencies).
 3. Sustainable: Both consistent funding through block rewards and the skin in the game model of stakeholder voting make Decred sustainable in the long-term. Where other projects are discussing developer funding, Decred is not only paying developers around the world - it's also autonomously selecting community leads, its PR firm, and building a decentralized exchange ruled by the collective intelligence of the community.
 
-Why haven't I ever heard of Decred?
+**Why haven't I ever heard of Decred?**
 
 Decred has been quietly building during its first 3 years. This has allowed the community to focus on creating a superior long-term store of value that will stand on its own - marketing can't substitute for a great product.
 
-When was Decred first launched?
+**When was Decred first launched?**
 
 Decred launched on February 8, 2016. All upgrade decisions since then have been approved by a super majority of the stakeholders so that no hard forks have ever been necessary.
 
-What amount of money is in Decred's treasury?
+**What amount of money is in Decred's treasury?**
 
 10% of every block reward goes to the Treasury. As of Mar 2020, the balance is more than 640K DCR. For current balance see the [Treasury address](https://dcrdata.decred.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx).
 
