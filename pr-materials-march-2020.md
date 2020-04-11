@@ -13,7 +13,7 @@ Decred aims to reach a wide array of discrete audiences, from Bitcoin maximalist
 
 Developers, members of the Decred community, ecosystem partners (exchanges, wallets, applications etc.) and people who are familiar with the technical nuances of blockchain technology.
 
-### Target Audience: Developers
+#### Target Audience: Developers
 
 From devs working at big tech and looking for a crypto side project to devs working on other projects, we want smart - but trusted - devs to come build on Decred.
 
@@ -25,7 +25,7 @@ Individual and institutional investors who either already invest in or are inter
 
 Newbies to crypto and blockchain who are frustrated with the status quo of the current financial system, rentiers, third-party intermediaries, the surveillance economy, and are interested in the promise of crypto and blockchain. This can include borderless, refugees, underbanked or unbanked, those fearful or experiencing inflation.
 
-*Decred's end game is to be a global currency: a solid hedge to Bitcoin and a superior SoV-candidate that will dramatically change the underlying power and global politics of money.*
+_Decred's end game is to be a global currency: a solid hedge to Bitcoin and a superior SoV-candidate that will dramatically change the underlying power and global politics of money._
 
 ## Key messages
 
@@ -113,13 +113,13 @@ The amount of time contractors devote to the project is entirely up to them, whi
 
 Decred: Secure. Adaptable. Sustainable.
 
-Secure. Decred's unique hybrid PoW/PoS consensus mechanism is more than 20x more expensive to attack than PoW alone because it provides layered security. By effectively aligning incentives between miners and stakeholders, it provides checks and balances to ensure long-term stability.
+**Secure**. Decred's unique hybrid PoW/PoS consensus mechanism is more than 20x more expensive to attack than PoW alone because it provides layered security. By effectively aligning incentives between miners and stakeholders, it provides checks and balances to ensure long-term stability.
 
-Adaptable. Decred's built-in governance systems facilitate formal methods of making consensus changes and project-level decisions that avoid community-splitting forks.
+**Adaptable**. Decred's built-in governance systems facilitate formal methods of making consensus changes and project-level decisions that avoid community-splitting forks.
 
-Sustainable. Decred's block reward system allows the Treasury to sustain itself over time - no outside funding necessary. This ensures the funding the project needs to realize the community's collective decisions. It also gives contributors the freedom to do the work that interests them most (and get paid).
+**Sustainable**. Decred's block reward system allows the Treasury to sustain itself over time - no outside funding necessary. This ensures the funding the project needs to realize the community's collective decisions. It also gives contributors the freedom to do the work that interests them most (and get paid).
 
-Vision Statement & Values (an aspirational description of what Decred aims to achieve in the long-term)
+### Vision Statement & Values (an aspirational description of what Decred aims to achieve in the long-term)
 
 Decred's vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all - not just a select few.
 
@@ -167,33 +167,33 @@ Decred is a community-directed cryptocurrency designed to deliver a truly decent
 
 Terms to describe Decred
 
-Adaptable
-Built to last
-Cohesive
-Community-directed
-Decentralized
-Enduring
-Fair(er)
-Minority fork-resistant
-Future-focused
-Inclusive
-Iterative
-Hybrid PoW+PoS
-Long-term
-OG (Original gangsters - founders involved since BTC Suite)
-Pioneers
-Rebellious
-Reliable
-Resilient
-Revolutionary
-Secure
-Serious dev talent
-Self-directed
-Self-sustaining/Self-funding/Self-starters
-Sound money
-Sovereign
-Transparent
-Values-based
+- Adaptable
+- Built to last
+- Cohesive
+- Community-directed
+- Decentralized
+- Enduring
+- Fair(er)
+- Minority fork-resistant
+- Future-focused
+- Inclusive
+- Iterative
+- Hybrid PoW+PoS
+- Long-term
+- OG (Original gangsters - founders involved since BTC Suite)
+- Pioneers
+- Rebellious
+- Reliable
+- Resilient
+- Revolutionary
+- Secure
+- Serious dev talent
+- Self-directed
+- Self-sustaining/Self-funding/Self-starters
+- Sound money
+- Sovereign
+- Transparent
+- Values-based
 
 ### Principles
 
@@ -241,7 +241,7 @@ Beyond espousing decentralized ideals, Decred has self-funded and built (or pass
 - Decred developers created btcsuite, the first alternative full-node Bitcoin implementation whose code served as the basis of Lightning Network. Decred is one of the first LN implementations (along with BTC and LTC).
 - Built the first-ever off-chain proposal system (Politeia) that allows for public discourse and voting on project-level decisions and how to spend the treasury.
 - First on-chain Consensus change vote
-- First project to build a truly decentralized exchange (DEX), which was passed via Politeia with technical specs announced. **There are other DEXs, but this is the first of its kind.
+- First project to build a truly decentralized exchange (DEX), which was passed via Politeia with technical specs announced. \*\*There are other DEXs, but this is the first of its kind.
 - Automate treasury. DASH did it first, and Decred's won't be fully automated due to specific attack vectors. There will be a summary draft of payouts that will be voted on by the stakeholders. If they were fully automated, there could be a threat of someone draining the treasury via attack.
 
 Decred is a leader when it comes to "walking the talk" of crypto. Other projects claim to be the first or talk about innovations, but Decred is actually building/implementing big leaps forward.
