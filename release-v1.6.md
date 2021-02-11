@@ -54,6 +54,17 @@ In the proposed system, stakeholders ("ticket holders") will vote whether to app
 
 { find out what exactly is added in Decrediton v1.6. Watchtowers? }
 
+## Links
+
+- release page at decred.org https://decred.org/release/
+- press release https://decred.org/press/2021-01-25_three_new_features/
+- [v1.6 RC1](https://github.com/decred/decred-binaries/releases/tag/v1.6.0-rc1) release notes
+- v1.6 video overview by @Checkmate "Decred Deep Dive: Hidden hydra release is incoming!" ([youtube](https://www.youtube.com/watch?v=3AxBa-EE8RM), [discussion](https://www.reddit.com/r/decred/comments/klz8ue/decred_deep_dive_hidden_hydra/))
+
+### Upgrading
+
+{ all the gotchas the least technical users need to know: upgrade warnings, migration to vspd, initial coin mixing, setting treasury vote prefs, when v1.5 will stop working }
+
 ## Assets
 
 { add links to design assets that advocates can grab and use on the web }
@@ -64,7 +75,7 @@ Feature screencuts:
 
 Graphics/art:
 
-- {}
+- public [Lottie](https://lottiefiles.com/user/5870) animations
 
 Motion:
 
