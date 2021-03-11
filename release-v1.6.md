@@ -60,6 +60,7 @@ In the proposed system, stakeholders ("ticket holders") will vote whether to app
 - press release https://decred.org/press/2021-01-25_three_new_features/
 - [v1.6 RC1](https://github.com/decred/decred-binaries/releases/tag/v1.6.0-rc1) release notes
 - v1.6 video overview by @Checkmate "Decred Deep Dive: Hidden hydra release is incoming!" ([youtube](https://www.youtube.com/watch?v=3AxBa-EE8RM), [discussion](https://www.reddit.com/r/decred/comments/klz8ue/decred_deep_dive_hidden_hydra/))
+- video and text coverage in Coinscrum interview with @jy-p ([coinscrum.com](https://www.coinscrum.com/decred-with-jake-yocom-piatt/))
 
 ### Upgrading
 
