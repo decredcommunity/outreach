@@ -1,3 +1,10 @@
+---
+author: liz_bagot
+published_utc: 2019-06-14
+updated_utc: 2019-06-21
+note: authors list is based on best knowledge but may be incorrect
+---
+
 # Decred Community Engagement Guide
 
 ## What to Do If DCR Is Delisted/Geofenced

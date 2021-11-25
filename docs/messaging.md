@@ -1,3 +1,10 @@
+---
+author: liz_bagot, margaret_mei, Dustorf, Haon, richardred, elian, bee
+published_utc: 2019-01-29
+updated_utc: 2019-10-31
+note: authors list is based on best knowledge but may be incorrect
+---
+
 # Decred Foundational Messaging
 
 Version 2.0

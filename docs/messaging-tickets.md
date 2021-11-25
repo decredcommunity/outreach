@@ -1,3 +1,9 @@
+---
+author: margaret_mei, bee
+published_utc: 2019-05-31
+updated_utc: 2019-06-21
+---
+
 # Decred Ticket-Holder Voting
 
 Decred employs a hybrid PoW (Proof-of-Work) + PoS (Proof-of-Stake) consensus system. Not only does this make the network more secure and resistant to 51% attacks than a conventional Proof-of-Work system, but the staking component allows those holding the coins, not just miners, to participate in changing the consensus rules.
