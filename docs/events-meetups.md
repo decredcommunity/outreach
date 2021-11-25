@@ -1,3 +1,10 @@
+---
+author: heyvj
+published_utc: 2018-09-26
+updated_utc: 2021-11-25
+note: imported from the old events wiki, may need updating
+---
+
 ## Strategies for Locations	
 * How to get them donated( X the # of people = the $ for the place)
 * Locations that are willing to accept Decred are preferred:

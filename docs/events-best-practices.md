@@ -1,3 +1,10 @@
+---
+author: heyvj
+published_utc: 2018-04-30
+updated_utc: 2021-11-25
+note: imported from the old events wiki, may need updating
+---
+
 Best practices documentation will live here. Eventually these sub headings may become standalone wiki pages. For now, everything will be collected here.
 
 ## Event Preparation
