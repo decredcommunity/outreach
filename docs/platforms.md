@@ -7,6 +7,20 @@ published_utc: 2022-12-23
 
 Tips for publishing on various platforms.
 
+On this page:
+
+- [Any platform](#any-platform)
+- [Markdown common](#markdown)
+- [GitHub Pages](#github-pages)
+
+Major platforms have their own pages:
+
+- [Ghost](ghost.md)
+- [Instagram](instagram.md)
+- [Medium](medium.md)
+- [Odysee](odysee.md)
+- [Twitter](twitter.md)
+
 
 ## Any platform
 
@@ -40,18 +54,22 @@ Short non-canonical links like `youtu.be` or `t.co` are okay if you need to fit 
 
 ### Markdown
 
-- Escape any underscore `_` or asterisk `*` that you do not use for styling (to make text italic or bold). Put backslash `\` before underscore/asterisk to "escape" it. This prevents undesired italic/bold styling. Example: `under\_score`.
 - See this excellent [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) of Markdown features.
 - Learn about Markdown limitations and bugs of each platform you use.
 
-**GitHub Pages specifics**
+**Avoid unwanted styling**
 
-1\. Avoid the pipe `|` character, it may trigger GitHub Pages to render an unwanted table. This does not happen on regular GitHub and can easily go unnoticed.
+Escape any underscore `_` or asterisk `*` that you do not use for styling (to make text italic or bold). Put backslash `\` before underscore orasterisk to "escape" it. This prevents undesired italic/bold styling.
 
-**Anything outside GitHub**
+Example: `under\_score`.
 
-1\. Fix local links manually.
+**Fix local links**
 
-A link like `[other doc](other-doc.md)` works on GitHub and GitHub Pages but other platforms have no way of knowing where such link should point to. Best case is it will be converted to an absolute `github.io` link (if copy-pasting rich text from `github.io`), worst case is it becomes a dead link.
+A link like `[other doc](other-doc.md)` works on GitHub and GitHub Pages but other platforms have no way of knowing where such link should point to. Best case is it will be converted to an absolute `github.io` link (if copy-pasting rich text from `github.io` page), worst case is it becomes a dead link.
 
 Therefore, each local link must be manually replaced with a proper link to the relevant document hosted on that platform.
+
+
+## GitHub Pages
+
+1\. Avoid the pipe `|` character, it may trigger GitHub Pages to render an unwanted table. This does not happen on regular GitHub and can easily go unnoticed.

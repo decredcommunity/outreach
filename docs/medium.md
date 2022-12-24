@@ -5,6 +5,11 @@ published_utc: 2022-12-23
 
 # Medium
 
+Tips for publishing on [Medium](https://medium.com/).
+
+
+## Markdown
+
 1\. Avoid complex Markdown that does not paste cleanly into Medium editor:
 
 - Paragraph breaks and blockquotes inside list items. Keep list items simple.
@@ -17,6 +22,9 @@ If you really want to use advanced Markdown features (e.g. on GitHub), prepare a
 2\. Table of Contents must be recreated manually.
 
 3\. Local links like `[other doc](other-doc.md)` must be fixed manually.
+
+
+## Other
 
 4\. Add relevant tags.
 

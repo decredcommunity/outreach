@@ -5,7 +5,10 @@ published_utc: 2022-12-23
 
 # Ghost
 
-Decred Magazine runs on Ghost so we need to know its gotchas.
+[Decred Magazine](https://www.decredmagazine.com/) runs on [Ghost](https://ghost.org/) so we need to know its gotchas.
+
+
+## Markdown
 
 1\. Manually fix bullet lists with extra blanks between items.
 
@@ -40,6 +43,9 @@ These:
 May get rendered as two separate quote blocks instead of one connected block. Add right angle bracket followed by a space (`> `) to connect quoted paragraphs.
 
 3\. Local links like `[other doc](other-doc.md)` must be fixed manually.
+
+
+## Other
 
 4\. Add relevant tags. Your post will be shown on that tag's page.
 
