@@ -6,7 +6,7 @@ updated_utc: 2021-11-14
 
 # Instagram
 
-## Image limits
+## Image size
 
 - Instagram posts can be square, landscape, or vertical. All images will be cropped to a square in the feed.
 - The ideal size for square posts is 1080px by 1080px at a 1:1 aspect ratio.
@@ -14,15 +14,17 @@ updated_utc: 2021-11-14
 - Vertical images should be sized at 1080px by 1350px with a 4:5 aspect ratio.
 
 
-## Text limits
+## Text size
 
-- Captions: 2,200 chars (about 330 words)
-  - 125 chars is recommended but not at the cost of important info [hubspot, upleap]
+Limitations:
+
+- Captions: 2,200 characters (about 330 words)
+  - 125 characters is recommended but not at the cost of important info [hubspot, upleap]
 - Captions: 30 hashtags
   - some recommend 5 [escapist], some >11 [upleap]
-- Bio: 150 chars
-- DM: 1,000 chars
-- Links are not clickable
+- Bio: 150 characters
+- DM: 1,000 characters
+- Links are not clickable!
 - Links are not even _selectable_ on mobile apps (should work via browser)
   - common workaround is to use short links that are easy to type e.g. `site.com/hello`, or put 1 link in bio and keep it up to date
 - Bio can host 1 clickable link

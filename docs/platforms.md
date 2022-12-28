@@ -52,10 +52,25 @@ https://hackernoon.com/decred-wants-you-be-one-of-the-first-to-test-the-dcr-ligh
 Short non-canonical links like `youtu.be` or `t.co` are okay if you need to fit into a small character limit, like on [Twitter](twitter.md) or [Instagram](instagram.md).
 
 
+### Wipe image metadata
+
+Image files may store a ton of hidden metadata, like what camera made a photo with what settings, or what software was used to create the image. There are stories of proprietary software silently inserting user's license number into the image.
+
+To avoid any unexpected behavior from image editing software, re-save the image with a tool that is known to remove metadata.
+
+
 ### Markdown
 
-- See this excellent [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) of Markdown features.
-- Learn about Markdown limitations and bugs of each platform you use.
+Markdown is a popular format for adding simple styles and links to plain text. Reasons to learn and use Markdown in your content:
+
+- It is relatively easy to learn.
+- Create lists, links, and add styles as you type, without switching to mouse to hunt that toolbar button.
+- Markdown documents can be published on many platforms, including Ghost, Odysee, GitHub Pages. These platforms render Markdown as pretty HTML documents with clickable links, images, tables, and more.
+- Being a *text* format, Markdown documents fit nicely in version control systems like Git. Document's past versions can be easily compared to see who edited what and when. This is much harder to achieve in *binary* formats like DOCX or PDF.
+
+Bookmark the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) or the excellent [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for quick access until it becomes part of your muscle memory.
+
+Recommendations below are valid for all platforms. On top of that, learn about Markdown limitations and bugs of [each platform you use](#platforms).
 
 **Avoid unwanted styling**
 
@@ -72,4 +87,28 @@ Therefore, each local link must be manually replaced with a proper link to the r
 
 ## GitHub Pages
 
+Image size:
+
+- If you target slow network connections like [Decred Journal](https://xaur.github.io/decred-news/) does, stick to small images around 768x384 px (2:1) and under 100 KB.
+
+
+### Markdown
+
+Gotchas:
+
 1\. Avoid the pipe `|` character, it may trigger GitHub Pages to render an unwanted table. This does not happen on regular GitHub and can easily go unnoticed.
+
+#### Links to subheadings
+
+- GitHub Pages automatically generates HTML anchors from Markdown headings. Anchors can be used in links that jump to specific sections of the document. This is useful for table of contents.
+- Anchors are created for each Markdown heading (levels from 1 to 6).
+- Example: Markdown heading `## DCRDEX v0.5.7 Release` results in an HTML anchor `#dcrdex-v057-release`.
+- The algorithm of deriving an anchor from the heading is roughly:
+  - Convert all letters to lowercase.
+  - Replace all spaces with a hyphen `-`.
+  - Remove periods `.` and some other punctuation.
+- To use the anchor in your link, just append it at the end.
+  - Local link example: `see the [development](#development) section`.
+  - Full link example: `https://xaur.github.io/decred-news/journal/202211#development`
+- You can create additional invisible anchors by injecting HTML like `<a id="my-custom-anchor"/>` _before_ the text you want to jump to.
+- Anchors work without JavaScript (unlike normal GitHub).

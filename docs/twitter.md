@@ -1,9 +1,33 @@
 ---
-author: jz
+author: jz, bee
 published_utc: 2018-12-03
+updated_utc: 2022-12-28
 ---
 
-# Decred Tweeting Style Guide
+# Twitter
+
+## Text size
+
+Limitations:
+
+- Tweet: 280 characters
+- { TODO: Document how many characters are consumed by normal links and t.co links. }
+
+
+## Image size
+
+- 2048x1024 px (2:1) is a good choice.
+- When linking sites that generate proper social cards (like [Decred Magazine](https://www.decredmagazine.com/)), just tweet the link without uploading an image, and let Twitter figure out the social card image. This way the full image box becomes a clickable link to the post.
+
+
+## Tweeting tips
+
+- Prioritize native tweets from `@decredproject` over re-tweeting other accounts. { TODO: Document why. }
+
+
+## Decred tweeting style guide
+
+_Below is the original guide shared by @jz on 2018-12-03._
 
 * Always tag @decredproject when tweeting. It's not enough to use #Decred or $DCR. If you want it to be seen and RT'd by the project account we need to be notified about the tweet.
 
