@@ -84,19 +84,19 @@ title: { topic } (Ask Me Anything)
 
 Hi everyone!
 
-I am organizing an Ask Me Anything (AMA) session about { topic }. { A, B, ... } have agreed to participate, others may join too.
+I am organizing an Ask Me Anything (AMA) session about { topic }. { A, B, ... } have agreed to participate, others may join in to answer too.
 
 Here are the rules:
 
-- Questions are collected starting from now and until { end date }.
+- Questions are collected starting from now until { end date }.
 
-- Answers will start { answers stard date } and keep going as long as the experts wish to continue. Questions that come too late risk to not get answered.
+- Answers will start { answers stard date } and keep going as long as the experts wish to continue. Questions that come too late risk not getting answered.
 
 - The answers will be posted in \*this thread\* to keep everything in one place.
 
 - When experts start answering we will post another notice on Reddit and Twitter.
 
-- Top level comments must contain \*at least one question\*.
+- Top level comments must contain **at least one question**.
 
 - Post a separate comment for each question (or a group of related questions), or upvote existing questions.
 
